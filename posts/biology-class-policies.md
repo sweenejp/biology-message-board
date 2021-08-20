@@ -1,7 +1,7 @@
 ---
 title: Biology Class policies
 date: 2021-06-11T18:38:32.539Z
-summary: Late work, Quiz retake, Portfolio info, and Tests
+summary: Late work, retake info, portfolio info, and tests
 featuredImage: https://images.unsplash.com/photo-1516934024742-b461fba47600?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2134&q=80
 tags:
   - How To
@@ -25,7 +25,5 @@ Biology Policies:
 **All Portfolios can be corrected**. Feedback for corrections are found by [clicking on the score in the gradebook.](https://mnca-biology-message-board.netlify.app/posts/how-to-see-feedback/)
 
 To send in corrections, you will need to webmail it as an attachment to the appropriate teacher. That teacher is listed on the portfolio post. [How to send an attachment.](https://mnca-biology-message-board.netlify.app/posts/how-to-send-a-webmail-with-an-attachment/)
-
-
 
 **Tests:** All tests are taken on the [message board](https://mnca-biology-message-board.netlify.app/#). Click Test on the side to bring up all posts with Tests. [Test corrections](https://mnca-biology-message-board.netlify.app/posts/how-to-do-quiztest-corrections/) are done through the same method as the quiz retakes.
