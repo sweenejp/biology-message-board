@@ -1,9 +1,9 @@
 ---
 title: How to use the Bio Message Board
 date: 2021-02-01T20:50:19.944Z
-summary: A quick guide to our new Message Board. Portfolios? Quizzes? Tests?
-  Helpful videos? You can find everything you need for Biology class here on the
-  Message Board.
+summary: A quick guide to our new Message Board. Portfolios? Tests? Helpful
+  videos? You can find everything you need for Biology class here on the Message
+  Board.
 featuredImage: https://i.pinimg.com/originals/46/9e/93/469e93f1977e039f13730a84c4c3ed7f.jpg
 tags:
   - How To
@@ -11,7 +11,7 @@ tags:
   - Important
   - Hide
 ---
-We tried to make the new Biology Message Board as simple and easy to navigate as possible so that there is less head scratching when searching for quizzes, tests, or portfolio assignments.
+We tried to make the new Biology Message Board as simple and easy to navigate as possible so that there is less head scratching when searching for tests and portfolio assignments.
 
 ![](https://i.pinimg.com/originals/46/9e/93/469e93f1977e039f13730a84c4c3ed7f.jpg)
 
@@ -27,7 +27,7 @@ You can find all of the Biology teachers' contact info on the [contact page](/co
 
 ### Find resources with "tags"
 
-You can easily find posts that you are looking for by navigating with tags. You can see all posts that have to do with Unit 1, for example. You can see all of the portfolios by clicking on the "portfolios" tag, you can find all the alternative quizzes by clicking on the "alternative quizzes" tag, and so forth.
+You can easily find posts that you are looking for by navigating with tags. You can see all posts that have to do with Unit 1, for example. You can see all of the portfolios by clicking on the "portfolios" tag and so forth.
 
 ![A gif showing how to navigate the Message Board with tags ](/static/img/how-to-use-tags-mb.gif)
 
@@ -35,11 +35,11 @@ You can see all the tags on the sidebar or on the [tags page](/tags). You can al
 
 ### Find resources with the search button
 
-You can also find resources with the search button at the top of each page. Try searching for "portfolios", for example.
+You can also find resources with the search button at the top of each page. Try searching for "biomolecules", for example.
 
 ### How often should I check the Message Board?
 
-Frequently. At least once a week. Also, remember that each lesson in Biology will have a helpful post that goes along with it! These will often include helpful videos (so you might want to stop by here everyday). You can find all of these posts under the ["Lessons" tag](/tags/lessons/).
+Frequently. At least once a week. Also, remember that each lesson in Biology will have a helpful post that goes along with it! These will often include helpful videos (so you might want to stop by here everyday).
 
 ### Help us make the Message Board better!
 
