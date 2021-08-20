@@ -6,7 +6,7 @@ featuredImage: https://cite-media.pearson.com/legacy_paths/b36c79de-e305-46b6-91
 tags:
   - Unit 2
 ---
-
+This video will help you understand the content in Lessons 1 through 5.
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/YO244P1e9QM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
