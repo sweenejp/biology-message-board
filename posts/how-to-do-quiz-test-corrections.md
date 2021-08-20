@@ -1,7 +1,8 @@
 ---
-title: How to do quiz/test corrections
+title: How to do corrections
 date: 2021-01-28T21:37:21.187Z
-summary: Want to earn points back on tests or quizzes? Check here!
+summary: Want to earn points back on tests? Check here!
+featuredImage: https://images.unsplash.com/photo-1587145716981-d97565ef76d4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80
 tags:
   - FAQs
   - How To
