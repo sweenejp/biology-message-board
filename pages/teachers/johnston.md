@@ -1,6 +1,6 @@
 ---
 webmailURL: https://www.connexus.com/communication/webmail/writeMessage.aspx?idRecipient=1268272
-livelessonURL: https://www.connexus.com/liveLesson/liveLesson.aspx?teacherId=1268813
+livelessonURL: https://www.connexus.com/external/livelesson/?url-path=ejohnston&domain=ue2prod01.livelesson.com
 permalink: /johnston/index.html
 title: About Ms. Johnston
 date: 2021-01-27T23:16:40.310Z
@@ -8,7 +8,7 @@ teacherName: Ms. Johnston
 featuredImage: /static/img/screen-shot-2021-01-11-at-1.18.14-pm.png
 youcanbookmeURL: https://emily-johnston.youcanbook.me
 phoneNumber: 651-323-1494
-officeHours: Tu & F 1pm-3pm
+officeHours: M & F 9AM-12PM
 ---
 ![](/static/img/screen-shot-2020-09-08-at-9.16.51-am.png)
 
