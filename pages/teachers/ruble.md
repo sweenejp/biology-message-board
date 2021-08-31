@@ -1,7 +1,8 @@
 ---
-webmailURL: https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idRecipient=3453988
-permalink: /ruble/index.html
 title: About Ms. Ruble
+webmailURL: https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idRecipient=3453988
+livelessonURL: https://www.connexus.com/external/livelesson/?url-path=lruble&domain=ue2prod01.livelesson.com
+permalink: /ruble/index.html
 date: 2021-01-28T18:44:38.543Z
 teacherName: Ms. Ruble
 featuredImage: /static/img/60czl-0_400x400.jpg
