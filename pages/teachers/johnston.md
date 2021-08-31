@@ -1,6 +1,6 @@
 ---
 webmailURL: https://www.connexus.com/communication/webmail/writeMessage.aspx?idRecipient=1268272
-livelessonURL: https://www.connexus.com/liveLesson/liveLesson.aspx?teacherId=1268813
+livelessonURL: https://www.connexus.com/external/livelesson/?url-path=ejohnston&domain=ue2prod01.livelesson.com
 permalink: /johnston/index.html
 title: About Ms. Johnston
 date: 2021-01-27T23:16:40.310Z
