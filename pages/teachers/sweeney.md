@@ -1,6 +1,6 @@
 ---
 webmailURL: https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idWebuser=2786770
-livelessonURL: http://www.connexus.com/external/singleSignOn/launch.aspx?staticId=liveLesson&url-path=jasweeney&domain=ww3.livelesson.com
+livelessonURL: https://www.connexus.com/external/livelesson/?url-path=jasweeney&domain=ue2prod01.livelesson.com
 permalink: /sweeney/index.html
 title: About Mr. Sweeney
 date: 2021-01-29T22:40:12.185Z
