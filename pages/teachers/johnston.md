@@ -8,7 +8,7 @@ teacherName: Ms. Johnston
 featuredImage: /static/img/screen-shot-2021-01-11-at-1.18.14-pm.png
 youcanbookmeURL: https://emily-johnston.youcanbook.me
 phoneNumber: 651-323-1494
-officeHours: Tu & F 1pm-3pm
+officeHours: M & F 9AM-12PM
 ---
 ![](/static/img/screen-shot-2020-09-08-at-9.16.51-am.png)
 
