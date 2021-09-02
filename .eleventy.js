@@ -94,31 +94,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
-  // Attempt to parse and check for errors with the JSON file
-  //eleventyConfig.on('afterBuild', () => {
-  //  const filePath = path.dirname(__filename) + '/_site/index.json';
-  //  const file = fs.readFile(filePath, (err, data) => {
-  //    if (data) {
-  //      const json = data.toString();
-  //
-  //      // Attempt to fix any errors
-  //      const newContent = json.replace(/(?:\r\n|\r|\n)/g, '');
-  //      fs.writeFile(filePath, newContent, 'utf-8', (err) => {
-  //        if (err) console.log(err);
-   //     });
-//
-  //      try {
-    //      JSON.parse(json);
-       // } catch (err) {
-      //    console.log(err);
-        //  console.log('Error: The JSON file is contains a formatting error.')
-        //}
-      //} else {
-       // console.log(err);
-       // console.log('Error: Could not find or read JSON file.')
-      //}
-    //});
-  //});
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
