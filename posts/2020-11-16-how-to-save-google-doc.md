@@ -5,7 +5,11 @@ tags:
   - Hide
 homepage-off: true;
 date: 2021-01-01T17:09:50.004Z
-summary: Make sure you know how to save a Google Doc!
+summary: |-
+  Make sure you know how to save a Google Doc!
+  a
+  line
+  break
 ---
 After you complete a handout using Google Docs, you will need to save a copy of the file to your computer before submitting it to your teacher.
 
