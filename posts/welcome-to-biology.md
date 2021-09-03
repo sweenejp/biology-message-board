@@ -1,13 +1,13 @@
 ---
-title: "Welcome to Biology!"
-date: 2021-08-31
-tags: 
+title: Welcome to Biology!
+date: 2021-09-07T10:45:11.668Z
+summary: Everything you need to know to get started on the right foot
+featuredImage: https://images.unsplash.com/photo-1511876484235-b5246a4d6dd5?ixlib=rb-1.2.1&auto=format&fit=crop&w=648&q=80
+tags:
   - Important
   - Hide
   - Announcements
-featuredImage: https://images.unsplash.com/photo-1511876484235-b5246a4d6dd5?ixlib=rb-1.2.1&auto=format&fit=crop&w=648&q=80
 ---
-
 ### Welcome to the wonderful world of BIOLOGY!!
 
 All class resources and contact information can be found on the class [Message Board!](https://mnca-biology-message-board.netlify.app/)
