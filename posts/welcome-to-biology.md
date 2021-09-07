@@ -22,7 +22,7 @@ You can USE YOUR NOTES on assessments.  NOT the Internet.
 
 CONTACT US when you need something! 
 
-If you have a question, you can call or text your Biology teacher (either Ms. Johnston, Ms. Ruble, or Mr. Sweeney). You can also book a time to meet in our LiveLesson rooms. [What is a LiveLesson room anyway?](/posts/what's-a-livelesson-room)
+If you have a question, you can call or text your Biology teacher (either Ms. Johnston, Ms. Ruble, or Mr. Sweeney - we all work together as a team). You can also book a time to meet in our LiveLesson rooms. [What is a LiveLesson room anyway?](/posts/what's-a-livelesson-room)
 
 * [Book a meeting with Ms. Johnston](https://emily-johnston.youcanbook.me)
 * [Book a meeting with Ms. Ruble](http://larublemnca.youcanbook.me)
