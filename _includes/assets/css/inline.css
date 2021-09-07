@@ -202,13 +202,11 @@ main {
   padding: 0.5em;
 }
 
-.post-card-title a {
-  color: black;
+.post-card-title {
   background-color: var(--post-card-title-background-color);
   padding: 0.25em;
   border-radius: 5px;
-
-  /* title hover effect */
+  color: black;
   background-image: linear-gradient(180deg, transparent 89%, var(--tertiary) 0);
   background-repeat: no-repeat;
   background-size: 0 100%;
@@ -216,12 +214,12 @@ main {
   position: relative;
 }
 
-.post-card-title a:hover {
+.post-card-title:hover {
   text-decoration: none;
   background-size: 100% 100%;
 }
 
-.post-card-title a:focus {
+.post-card-title:focus {
   text-decoration: none;
   background-size: 100% 100%;
 }
