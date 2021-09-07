@@ -4,6 +4,7 @@ date: 2021-09-07T15:03:18.830Z
 summary: "Unit 1 is an introduction to the course. "
 tags:
   - Unit 1
+  - Guides
 ---
 Unit 1 is an introduction to first semester Biology. The guided notes are brief, but feel free to add more notes if you wish.
 
