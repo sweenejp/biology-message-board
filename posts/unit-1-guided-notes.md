@@ -6,7 +6,7 @@ tags:
   - Unit 1
   - Guides
 ---
-Unit 1 is an introduction to first semester Biology. The guided notes are brief, but feel free to add more notes if you wish.
+Unit 1 is an introduction to first semester Biology. The Unit 1 Guided Notes are brief, but feel free to add more notes if you wish.
 
 This link will take you to the [Unit 1 Guided Notes](https://docs.google.com/document/d/1PgDJi_csbRUM3XyvG9lODwNLM-YKYdZJPTgJ7NPcoe8/edit?usp=sharing)
 
