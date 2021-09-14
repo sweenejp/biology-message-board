@@ -237,7 +237,7 @@ main {
 .post-card-mini {
   display: flex;
   align-items: center;
-  padding-top: 0.25em;
+  padding: 0.25em 0;
 }
 
 .post-card-image-mini {
