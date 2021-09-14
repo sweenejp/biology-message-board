@@ -13,7 +13,7 @@ This video will help you understand the content in Lessons 1 through 5.
 
 <br>
 
-Polymers are large molecules that are made up of many smaller molecules. Nucleic acids, carbohydrates, lipids, and proteins are all large molecules (polymers) made up of smaller molecules. Sort of like how a Lego Millennium Falcon is made up many smaller Lego pieces.
+Polymers are large molecules that are made up of many smaller molecules. Nucleic acids, carbohydrates, lipids, and proteins are all large molecules (polymers) made up of smaller molecules. Sort of like how a Lego Millennium Falcon is made up of many smaller Lego pieces.
 
 ![Lego Millennium Falcon](https://www.lego.com/cdn/cs/set/assets/bltd5dc8187876569e5/75257_alt5.jpg)
 
