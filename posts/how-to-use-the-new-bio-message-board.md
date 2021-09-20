@@ -8,8 +8,6 @@ featuredImage: https://i.pinimg.com/originals/46/9e/93/469e93f1977e039f13730a84c
 tags:
   - How To
   - Announcements
-  - Important
-  - Hide
 ---
 We tried to make the new Biology Message Board as simple and easy to navigate as possible so that there is less head scratching when searching for tests and portfolio assignments.
 
