@@ -8,6 +8,7 @@ tags:
   - Announcements
   - Unit 2
   - Important
+  - Hide
 ---
 Each week we will post announcements here on the Message Board. Mr. Sweeney forgot to post one last week (whoops) so this is the semester's first announcement post.
 
