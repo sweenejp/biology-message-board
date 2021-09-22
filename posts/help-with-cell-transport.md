@@ -15,7 +15,7 @@ Take this Quizziz after watching the video for extra credit! **Please enter your
 
 [Click to go to the Quizziz](https://quizizz.com/join?gc=38899662) (You be asked to enter this code: 3889 9662)
 
-## Other helpful resources
+## Some helpful gifs!
 
 ![passive transport](https://www.amoebasisters.com/uploads/2/1/9/0/21902384/passive-transport-diffusion-gif_orig.gif)
 
