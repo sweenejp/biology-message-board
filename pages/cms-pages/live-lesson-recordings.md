@@ -1,6 +1,6 @@
 ---
 title: LiveLesson Recordings
-date: 2021-04-12T18:18:40.575Z
+date: 2021-09-22T20:59:03.386Z
 permalink: /livelesson-recordings/index.html
 ---
 Here are a list of this semester's LiveLesson Recordings:
@@ -9,3 +9,4 @@ Here are a list of this semester's LiveLesson Recordings:
 
 9/15 - [More on Macromolecules and Chemical Reactions](https://www.connexus.com/external/livelesson/?url-path=p81ijwa2jizc&domain=ue2prod01.livelesson.com)
 
+9/22 - [Unit 2 Review](https://www.connexus.com/external/livelesson/?url-path=p03tmajoe4u2&domain=ue2prod01.livelesson.com). See [this post](/posts/unit-2-review) for resources shown in the LL.
