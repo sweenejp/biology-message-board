@@ -17,7 +17,7 @@ Submit two screenshots:
 
    1. When the Edpuzzle asks for your "nickname", enter in your student ID number. [Not sure how to find your student ID?](https://mnca-biology-message-board.netlify.app/posts/how-to-find-your-student-id/)
    2. Then take a screenshot showing you completed the Edpuzzle.
-3. Submit both of those screenshots in this lesson's Sample Work drop box.
+3. Submit both of those screenshots in this lesson's Sample Work drop box. [Unsure how to submit to a lesson's drop box?](how-to-submit-sample-work-and-portfolios/)
 
 ### Option 2:
 
