@@ -1,7 +1,7 @@
 ---
 title: How to submit Sample Work and Portfolios
 date: 2021-09-20T16:32:49.304Z
-summary: How to submit Sample Work and Portfolios
+summary: How to submit Sample Work and Portfolios to a lesson's drop box
 tags:
   - How To
   - Portfolios
