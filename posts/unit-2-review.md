@@ -2,7 +2,7 @@
 title: Unit 2 Review
 date: 2021-09-22T20:12:31.724Z
 summary: Some helpful review before you take the Unit 2 Test.
-featuredImage: https://wou.edu/chemistry/files/2019/10/enzyme-shape.jpg
+featuredImage: https://media.istockphoto.com/photos/petase-molecules-breaking-down-petplastic-picture-id951147710?k=20&m=951147710&s=612x612&w=0&h=Whh5FjqxoKLYXwbkaPM-Vg_0oJriQbspK709Vt2u1dI=
 tags:
   - Unit 2
 ---
@@ -16,4 +16,4 @@ Here is a real life example of an enzyme at work. This is an animation of a stra
 
 In this example, the nucleotides are the substrates, the active site is where the nucleotides come together, and the new DNA strand is the product.
 
-![](/static/img/dna-polymerase-enzyme-example.gif)
+![an example of an enzyme](/static/img/dna-polymerase-enzyme-example.gif)
