@@ -5,6 +5,8 @@ summary: This baby gorilla will be disappointed if you don't read the announceme
 featuredImage: https://www.theluxurysafaricompany.com/app/uploads/2019/09/Gorilla.jpg
 tags:
   - Announcements
+  - Important
+  - Hide
 ---
 Hello Biology students!
 
