@@ -6,8 +6,6 @@ summary: This turtle is so happy that you are about to read the announcements.
 featuredImage: https://pbs.twimg.com/media/D54660ZXkAAZxxw?format=jpg&name=medium
 tags:
   - Announcements
-  - Important
-  - Hide
 ---
 Each week we will post announcements here on the Message Board. Mr. Sweeney forgot to post one last week (whoops) so this is the semester's first announcement post.
 
