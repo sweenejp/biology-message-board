@@ -2,6 +2,7 @@
 title: Help with cell organelles
 date: 2021-09-27T19:45:25.107Z
 summary: Review cell organelles
+featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Eukaryota_cell_strucutre.PNG/640px-Eukaryota_cell_strucutre.PNG
 tags:
   - Unit 3
 ---
