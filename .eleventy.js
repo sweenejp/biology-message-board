@@ -23,6 +23,7 @@ module.exports = function (eleventyConfig) {
             case "Important":
             case "teacher":
             case "Hide-on-home":
+            case "Hide-everywhere":
               return false;
           }
 
