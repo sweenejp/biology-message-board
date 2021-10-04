@@ -2,11 +2,12 @@
 title: How To Find Your Student ID
 tags:
   - How To
-  - Hide
+  - Hide-on-home
 homepage-off: true;
 date: 2021-01-01T16:34:40.386Z
 summary: You can find your ID in your grade book! See here for more.
 ---
+
 In the upper right corner of the Connexus website, click on your grade book.
 
 ![Go to your gradebook](/static/img/circle-grade-book.jpg)

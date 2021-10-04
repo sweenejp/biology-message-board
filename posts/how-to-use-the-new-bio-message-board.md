@@ -9,6 +9,7 @@ tags:
   - How To
   - Announcements
 ---
+
 We tried to make the new Biology Message Board as simple and easy to navigate as possible so that there is less head scratching when searching for tests and portfolio assignments.
 
 ![](https://i.pinimg.com/originals/46/9e/93/469e93f1977e039f13730a84c4c3ed7f.jpg)
@@ -41,4 +42,4 @@ Frequently. At least once a week. Also, remember that each lesson in Biology wil
 
 ### Help us make the Message Board better!
 
-If you notice any bugs or have any suggestions, please send a message to [Mr. Sweeney](https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idWebuser=2786770).
+If you notice any bugs or have any suggestions, please send a message to [Mr. Sweeney](https://www.connexus.com/webmail?Hide-on-homeHeader=true/#/composemessage?idWebuser=2786770).

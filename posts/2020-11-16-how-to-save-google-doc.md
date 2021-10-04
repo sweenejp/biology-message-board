@@ -2,11 +2,12 @@
 title: How to Save a Google Doc
 tags:
   - How To
-  - Hide
+  - Hide-on-home
 homepage-off: true;
 date: 2021-01-01T17:09:50.004Z
 summary: Make sure you know how to save a Google Doc!
 ---
+
 After you complete a handout using Google Docs, you will need to save a copy of the file to your computer before submitting it to your teacher.
 
 Go to "File" > "Download"

@@ -5,12 +5,13 @@ summary: Alternative Portfolio for Unit 3
 featuredImage: /static/img/maxresdefault.jpg
 tags:
   - Portfolios
-  - Hide
+  - Hide-on-home
   - Unit 3
   - Important
 ---
+
 Hello, Biology Enthusiasts!
 
-Your Unit 3 Portfolio is here! You'll create a fun presentation using [THIS TEMPLATE](https://docs.google.com/presentation/d/1RVHmJaMo2KZpGQGaER-qvDUagkEtPEICU6B5zz33Yrc/edit?usp=sharing) to upload to your DropBox in Connexus. 
+Your Unit 3 Portfolio is here! You'll create a fun presentation using [THIS TEMPLATE](https://docs.google.com/presentation/d/1RVHmJaMo2KZpGQGaER-qvDUagkEtPEICU6B5zz33Yrc/edit?usp=sharing) to upload to your DropBox in Connexus.
 
 Have questions? Your teachers are here to assist you! Drop in to our Office Hours for ideas and/ or advice!

@@ -3,8 +3,8 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("tagList", function (collection) {
@@ -22,7 +22,7 @@ module.exports = function (eleventyConfig) {
             case "posts":
             case "Important":
             case "teacher":
-            case "Hide":
+            case "Hide-on-home":
               return false;
           }
 

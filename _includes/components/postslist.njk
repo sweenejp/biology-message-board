@@ -1,5 +1,7 @@
 <section class="postslist-grid">
 	{% for post in postslist %}
+		{% if "Hide-everywhere" in post.data.tags %}
+    {% else %}
 		<article class="post-card" {% if post.url == url %} data-current="current item"{% endif %}>
 			{% if post.data.featuredImage %}
 				<a href="{{ post.url | url }}"><img class="post-card-image"src="{{ post.data.featuredImage }}" loading="lazy" alt=""></a>
@@ -25,5 +27,6 @@
 				{% endif %}
 			</div>
 		</article>
+		{% endif %}
 	{% endfor %}
 </section>

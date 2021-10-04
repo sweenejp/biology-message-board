@@ -5,14 +5,15 @@ summary: Please only take this quiz if you have completed Unit 2 Lesson 11!
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/e/ed/Zorse.jpg
 tags:
   - Alternative Quizzes
-  - Hide
+  - Hide-on-home
   - Unit 2
 ---
+
 **Please only complete this quiz if you have completed Unit 2 Lesson 11.**
 
 Once you have completed the quiz:
 
-1. Send a message to [Mr. Sweeney](https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idWebuser=2786770).
+1. Send a message to [Mr. Sweeney](https://www.connexus.com/webmail?Hide-on-homeHeader=true/#/composemessage?idWebuser=2786770).
 2. Mark the regular Connexus version of the quiz as complete. (You may have to submit the Connexus quiz in order to do so - fear not, Mr. Sweeney will drop that quiz score for you as soon as he can.)
 
 This quiz is an Edpuzzle. Click the link below to go to the quiz. When it asks for your "nickname", please just enter your first name and last initial.

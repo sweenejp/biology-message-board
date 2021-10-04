@@ -6,11 +6,12 @@ featuredImage: https://i.imgur.com/oVvuaoC.jpg
 tags:
   - Announcements
   - Important
-  - Hide
+  - Hide-on-home
 ---
+
 Hello Biology students!
 
-There is just about 3 weeks of school left! 
+There is just about 3 weeks of school left!
 
 ![shocked owl](https://media.giphy.com/media/l1J9Jzcs9OHXa310k/giphy.gif)
 

@@ -52,9 +52,9 @@ collections:
               "Unit 2",
               "Unit 3",
               "Unit 4",
-              "Hide",
+              "Hide-on-home",
             ],
-          hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide' will keep the post off the Home Page.",
+          hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide-on-home' will keep the post off the Home Page.",
         }
       - { label: "Body", name: "body", widget: "markdown" }
   # Teacher Pages
@@ -154,6 +154,7 @@ collections:
             [
               "Alternative Tests",
               "Announcements",
+              "Extra Credit",
               "FAQs",
               "How To",
               "Important",
@@ -164,9 +165,13 @@ collections:
               "Unit 2",
               "Unit 3",
               "Unit 4",
-              "Hide",
-              "Extra Credit",
+              "Unit 5",
+              "Unit 6",
+              "Unit 7",
+              "Unit 8"
+              "Hide-on-home",
+              "Hide-everywhere",
             ],
-          hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide' will keep the post off the Home Page.",
+          hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide-on-home' will keep the post off the Home Page.",
         }
       - { label: "Body", name: "body", widget: "markdown" }
