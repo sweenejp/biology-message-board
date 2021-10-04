@@ -8,4 +8,4 @@ tags:
   - Hide-everywhere
 ---
 
-Test.
+The instructions for the Unit 3 Sample Work assignment are coming soon!
