@@ -1,6 +1,6 @@
 ---
 title: Unit 3 Sample Work
-date: 2021-10-03T17:43:57.263Z
+date: 2021-10-02T17:43:57.263Z
 summary: Instructions for the Unit 3 Sample Work.
 tags:
   - Sample Work
