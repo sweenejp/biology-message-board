@@ -5,7 +5,6 @@ summary: Take the Unit 3 Alternative Test here on the Message Board!
 tags:
   - Alternative Tests
   - Unit 3
-  - Hide-everywhere
 ---
 
 The Unit 3 Alternative Test will be posted here soon.
