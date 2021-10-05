@@ -5,7 +5,6 @@ summary: Instructions for the Unit 3 Sample Work.
 tags:
   - Sample Work
   - Unit 3
-  - Hide-everywhere
 ---
 You have two options for the Sample Work assignment in Unit 3. [](https://mnca-biology-message-board.netlify.app/posts/how-to-submit-sample-work-and-portfolios/)
 
