@@ -52,7 +52,12 @@ collections:
               "Unit 2",
               "Unit 3",
               "Unit 4",
+              "Unit 5",
+              "Unit 6",
+              "Unit 7",
+              "Unit 8",
               "Hide-on-home",
+              "Hide-everywhere",
             ],
           hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide-on-home' will keep the post off the Home Page.",
         }
@@ -168,7 +173,7 @@ collections:
               "Unit 5",
               "Unit 6",
               "Unit 7",
-              "Unit 8"
+              "Unit 8",
               "Hide-on-home",
               "Hide-everywhere",
             ],
