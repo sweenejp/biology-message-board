@@ -4,6 +4,8 @@ date: 2021-10-05T03:32:15.306Z
 summary: Review this post before you take the Unit 3 test
 tags:
   - Unit 3
+  - Important
+  - Hide-on-home
 ---
 There are 3 practice Quizziz's you can take:
 
@@ -24,3 +26,5 @@ Why does celery wilt when placed in salty water?
 A helpful reminder of how blood travels through the heart: 
 
 ![](https://ctsurgerypatients.org/sites/default/files/styles/news_individual_featured_image/public/The_Heart_New_Labels-450x450.gif?itok=7j7fe-jT)
+
+Where does the pulmonary artery take blood? Where does the artery take blood?
