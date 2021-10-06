@@ -2,6 +2,7 @@
 title: Unit 3 Review
 date: 2021-10-05T03:32:15.306Z
 summary: Review this post before you take the Unit 3 test
+featuredImage: https://www.chrisnull.com/gummi.gif
 tags:
   - Unit 3
   - Important
