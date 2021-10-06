@@ -6,8 +6,6 @@ featuredImage: /static/img/science_black_24dp.svg
 tags:
   - Alternative Tests
   - Unit 2
-  - Important
-  - Hide-on-home
 ---
 
 This is the Unit 2 Alternative Test.
