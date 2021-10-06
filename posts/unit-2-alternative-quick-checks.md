@@ -17,3 +17,5 @@ Your password is: biology
 [Alternative Quick Check 2](https://edpuzzle.com/assignments/615dc26282d837417e7e0267/watch)
 
 [Alternative Quick Check 3](https://edpuzzle.com/assignments/615dc26282d837417e7e0267/watch)
+
+[Alternative Quick Check 4](https://edpuzzle.com/assignments/615dd1c507be9841a66fc43a/watch)
