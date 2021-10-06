@@ -4,7 +4,7 @@ date: 2021-10-06T15:58:56.071Z
 tags:
   - Hide-everywhere
 ---
-Here are alternative lessons and quick checks for Unit 2. These lessons are on the online learning platform called "Edpuzzle". 
+Here are alternative quick checks for Unit 2. These lessons are on the online learning platform called "Edpuzzle". 
 
 **I have already created a Edpuzzle account for you!**
 
