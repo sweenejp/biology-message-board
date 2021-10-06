@@ -12,8 +12,8 @@ Your username is: your Connexus student ID number [(not sure what your ID number
 
 Your password is: biology
 
-[Lesson 1](https://edpuzzle.com/assignments/615dc1e9d950d8419c5de82e/watch)
+[Alternative Quick Check 1](https://edpuzzle.com/assignments/615dc1e9d950d8419c5de82e/watch)
 
-[Lesson 2](https://edpuzzle.com/assignments/615dc26282d837417e7e0267/watch)
+[Alternative Quick Check 2](https://edpuzzle.com/assignments/615dc26282d837417e7e0267/watch)
 
-[Lesson 3](https://edpuzzle.com/assignments/615dc26282d837417e7e0267/watch)
+[Alternative Quick Check 3](https://edpuzzle.com/assignments/615dc26282d837417e7e0267/watch)
