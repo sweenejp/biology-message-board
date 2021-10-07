@@ -2,7 +2,7 @@
 title: Unit 2 Alternative Test
 date: 2021-09-20T15:55:16.607Z
 summary: Take the Unit 2 Alternative Test here on the Message Board!
-featuredImage: /static/img/science_black_24dp.svg
+featuredImage: /static/img/biological.png
 tags:
   - Alternative Tests
   - Unit 2
