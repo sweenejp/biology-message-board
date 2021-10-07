@@ -11,4 +11,6 @@ Here are a list of this semester's LiveLesson Recordings:
 
 9/22 - [Unit 2 Review](https://www.connexus.com/external/livelesson/?url-path=p03tmajoe4u2&domain=ue2prod01.livelesson.com). See [this post](/posts/unit-2-review) for resources shown in the LL.
 
-9/29 - [Introduction to cells](https://www.connexus.com/external/livelesson/?url-path=rpsbvr5a4iig9&domain=ue2prod01.livelesson.com)
+9/29 - [Introduction to Cells](https://www.connexus.com/external/livelesson/?url-path=rpsbvr5a4iig9&domain=ue2prod01.livelesson.com)
+
+10/6- [Unit 3 Putting it ALL Together](https://ue2prod01.livelesson.com/pr879awyrlm3/)
