@@ -11,7 +11,7 @@ tags:
 ---
 ## Option 1
 
-### Design and conduct YOUR OWN UNIQUE laboratory experiment dealing with homeostasis. 
+### Design and conduct YOUR OWN UNIQUE laboratory experiment dealing with homeostasis.
 
 * If you want to design and conduct your own experiment, that's great!! Remember that the first steps of the Scientific Method are to make an observation, form a question, and complete research! Search to find a homeostasis experiment that:
 
@@ -26,7 +26,7 @@ tags:
 
 ### Sample Lab - Homeostasis in the Cell
 
-* This Homeostasis Lab measures diffusion and osmosis in solutions with varying amounts of sugar. 
+* This [Homeostasis Lab](https://video.esc4.net/video/assets/Science/Biology/Gateway%20Resources/cell%20homeostasis%20virtual%20lab%20-%20activity/index.html) measures diffusion and osmosis in solutions with varying amounts of sugar. 
 * Complete lab online, collect data, then complete your lab report!
 
   * You can use [this template](https://docs.google.com/document/d/1G_TVvGRIQavf5aqy2fqHc3EmWjCvV-dsqNRPm717POE/edit) for writing your report
