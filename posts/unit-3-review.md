@@ -29,3 +29,7 @@ A helpful reminder of how blood travels through the heart:
 ![](https://ctsurgerypatients.org/sites/default/files/styles/news_individual_featured_image/public/The_Heart_New_Labels-450x450.gif?itok=7j7fe-jT)
 
 Where does the pulmonary artery take blood? Where does the artery take blood?
+
+Watch this video for review on how blood travels through the body.
+
+<div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/_vZ0lefPg_0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
