@@ -13,4 +13,6 @@ Here are a list of this semester's LiveLesson Recordings:
 
 9/29 - [Introduction to Cells](https://www.connexus.com/external/livelesson/?url-path=rpsbvr5a4iig9&domain=ue2prod01.livelesson.com)
 
-10/6- [Unit 3 Putting it ALL Together](https://ue2prod01.livelesson.com/pr879awyrlm3/)
+10/6 - [Unit 3 Putting it ALL Together](https://ue2prod01.livelesson.com/pr879awyrlm3/)
+
+10/13 - [Unit 4 Portfolio Help](https://www.connexus.com/external/livelesson/?url-path=rpfdcllvydscg&domain=ue2prod01.livelesson.com)
