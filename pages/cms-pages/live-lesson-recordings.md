@@ -1,6 +1,6 @@
 ---
 title: LiveLesson Recordings
-date: 2021-10-18T15:00:01.332Z
+date: 2021-10-20T14:39:11.409Z
 permalink: /livelesson-recordings/index.html
 ---
 Here are a list of this semester's LiveLesson Recordings:
@@ -16,3 +16,5 @@ Here are a list of this semester's LiveLesson Recordings:
 10/6 - [Unit 3 Putting it ALL Together](https://ue2prod01.livelesson.com/pr879awyrlm3/)
 
 10/13 - [Unit 4 Portfolio Help](https://www.connexus.com/external/livelesson/?url-path=rpfdcllvydscg&domain=ue2prod01.livelesson.com)
+
+10/18 - [Unit 4 Portfolio Directions](https://www.connexus.com/external/livelesson/?url-path=pzh67r7kvlgc&domain=ue2prod01.livelesson.com)
