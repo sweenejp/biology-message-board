@@ -30,3 +30,4 @@ tags:
 * Complete lab online, collect data, then complete your lab report!
 
   * You can use [this template](https://docs.google.com/document/d/1G_TVvGRIQavf5aqy2fqHc3EmWjCvV-dsqNRPm717POE/edit) for writing your report
+  * Watch [this LL session](https://www.connexus.com/external/livelesson/?url-path=pzh67r7kvlgc&domain=ue2prod01.livelesson.com) for help with completing this lab.
