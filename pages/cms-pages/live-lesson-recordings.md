@@ -16,3 +16,5 @@ Here are a list of this semester's LiveLesson Recordings:
 10/6 - [Unit 3 Putting it ALL Together](https://ue2prod01.livelesson.com/pr879awyrlm3/)
 
 10/13 - [Unit 4 Portfolio Help](https://www.connexus.com/external/livelesson/?url-path=rpfdcllvydscg&domain=ue2prod01.livelesson.com)
+
+10/18 - [Unit 4 Portfolio Directions (watch this one if you are having trouble completing the portfolio!)](https://www.connexus.com/external/livelesson/?url-path=pzh67r7kvlgc&domain=ue2prod01.livelesson.com)
