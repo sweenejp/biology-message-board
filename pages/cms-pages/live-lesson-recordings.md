@@ -18,3 +18,5 @@ Here are a list of this semester's LiveLesson Recordings:
 10/13 - [Unit 4 Portfolio Help](https://www.connexus.com/external/livelesson/?url-path=rpfdcllvydscg&domain=ue2prod01.livelesson.com)
 
 10/18 - [Unit 4 Portfolio Directions](https://www.connexus.com/external/livelesson/?url-path=pzh67r7kvlgc&domain=ue2prod01.livelesson.com)
+
+10/20 - [Cellular Respiration and Photosynthesis](https://www.connexus.com/external/livelesson/?url-path=p6o6k7u4d9bq&domain=ue2prod01.livelesson.com)
