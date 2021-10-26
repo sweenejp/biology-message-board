@@ -5,8 +5,6 @@ summary: Review this post before you take the Unit 3 test
 featuredImage: https://www.chrisnull.com/gummi.gif
 tags:
   - Unit 3
-  - Important
-  - Hide-on-home
 ---
 There are 3 practice Quizziz's you can take:
 
