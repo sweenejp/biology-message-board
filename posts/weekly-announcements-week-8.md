@@ -12,7 +12,7 @@ tags:
 
 Every student is required to complete a "semester check-in" with one of the Biology teachers. You may have already earned credit for your semester check-in. Take a look at your grade book see if you need to complete it. 
 
-* if you have a score of 5/5 on the semester check-in assignment, you are all set
+* if you have a score of 10/10 on the semester check-in assignment, you are all set
 * if there is no score next to the semester check-in assignment, it is incomplete. You can [book a meeting with a Biology teacher](/contact) to fix that.
 
 ## Unit 5 Sample Work posted
