@@ -5,6 +5,8 @@ summary: This tiger can't believe you are about to read the announcements.
 featuredImage: https://live.staticflickr.com/698/23309975899_c907611acf_b.jpg
 tags:
   - Announcements
+  - Important
+  - Hide-on-home
 ---
 Here are the announcements for this week!
 
