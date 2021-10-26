@@ -5,8 +5,6 @@ summary: "This mantis is praying that you will read the announcements. "
 featuredImage: https://live.staticflickr.com/5577/14993921665_070df0bc11_b.jpg
 tags:
   - Announcements
-  - Important
-  - Hide-on-home
 ---
 Sorry that the announcements didn't show up until Friday this week! Better late than never.
 
