@@ -5,6 +5,7 @@ summary: This ring-tailed lemur can relax because she read the announcements.
 featuredImage: https://reidparkzoo.org/wp-content/uploads/2017/02/linden-2-300x200.jpg
 tags:
   - Announcements
+  - Hide-everywhere
 ---
 ## Semester Check-in reminder
 
