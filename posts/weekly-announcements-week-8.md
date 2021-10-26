@@ -6,7 +6,7 @@ featuredImage: https://reidparkzoo.org/wp-content/uploads/2017/02/linden-2-300x2
 tags:
   - Announcements
 ---
-## Semester Check-in
+## Semester Check-in reminder
 
 Every student is required to complete a "semester check-in" with one of the Biology teachers. You may have already earned credit for your semester check-in. Take a look at your grade book see if you need to complete it. 
 
@@ -15,7 +15,7 @@ Every student is required to complete a "semester check-in" with one of the Biol
 
 ## Unit 5 Sample Work posted
 
-* See options for the Unit 5 Sample Work assignment here.
+* [See options for the Unit 5 Sample Work assignment here.](https://mnca-biology-message-board.netlify.app/posts/unit-5-sample-work/)
 
 ## Unit 5 Test posted
 
