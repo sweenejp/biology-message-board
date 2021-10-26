@@ -23,4 +23,4 @@ Every student is required to complete a "semester check-in" with one of the Biol
 
 * The [Unit 5 Alternative Test](https://mnca-biology-message-board.netlify.app/posts/unit-5-alternative-test/) has been posted to the Message Board.
 * No need to rush through Unit 5 - take your time to complete Unit 5 then take the test when you are ready.
-* Use the resources on [the review post](https://mnca-biology-message-board.netlify.app/posts/unit-3-review/) to help prepare for the test.
+* Use the resources on [the review post](https://mnca-biology-message-board.netlify.app/posts/unit-5-review/) to help prepare for the test.
