@@ -1,6 +1,6 @@
 ---
 title: LiveLesson Recordings
-date: 2021-10-20T14:39:11.409Z
+date: 2021-10-28T18:42:53.255Z
 permalink: /livelesson-recordings/index.html
 ---
 Here are a list of this semester's LiveLesson Recordings:
@@ -20,3 +20,5 @@ Here are a list of this semester's LiveLesson Recordings:
 10/18 - [Unit 4 Portfolio Directions](https://www.connexus.com/external/livelesson/?url-path=pzh67r7kvlgc&domain=ue2prod01.livelesson.com)
 
 10/20 - [Cellular Respiration and Photosynthesis](https://www.connexus.com/external/livelesson/?url-path=p6o6k7u4d9bq&domain=ue2prod01.livelesson.com)
+
+10/27 - [Details of Photosynthesis](https://www.connexus.com/external/livelesson/?url-path=prr5tl4jxkt9&domain=ue2prod01.livelesson.com)
