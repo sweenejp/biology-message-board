@@ -1,6 +1,6 @@
 ---
 title: Glossary
-date: 2021-10-28T15:46:19.793Z
+date: 2021-09-01T15:46:19.793Z
 summary: A list of all the vocab words and their definitions
 tags:
   - Guides
