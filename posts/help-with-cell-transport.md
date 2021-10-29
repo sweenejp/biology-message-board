@@ -15,6 +15,10 @@ Watch these videos for help with Lesson 2.
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/L-osEc07vMs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+<br>
+
+<div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/jhszFBtBPoI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 Take this Quizziz after watching the videos for extra credit! **Please enter your student ID number as your Quizziz name.** [(How do I find my student ID number?)](/posts/how-to-find-your-student-id/)
 
 [Click to go to the Quizziz](https://quizizz.com/join?gc=38899662) (You be asked to enter this code: 3889 9662)
