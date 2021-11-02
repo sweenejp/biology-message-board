@@ -26,8 +26,7 @@ tags:
 
 ### Sample Lab - Homeostasis in the Cell
 
-* This [Homeostasis Lab](https://video.esc4.net/video/assets/Science/Biology/Gateway%20Resources/cell%20homeostasis%20virtual%20lab%20-%20activity/index.html) measures diffusion and osmosis in solutions with varying amounts of sugar. 
+* This [Homeostasis Lab](https://video.esc4.net/video/assets/Science/Biology/Gateway%20Resources/cell%20homeostasis%20virtual%20lab%20-%20activity/index.html) measures diffusion and osmosis in solutions with varying amounts of sugar.
+* **[Watch this LL session](https://www.connexus.com/external/livelesson/?url-path=pzh67r7kvlgc&domain=ue2prod01.livelesson.com) for help with completing the lab!**
 * Complete lab online, collect data, then complete your lab report!
-
-  * You can use [this template](https://docs.google.com/document/d/1G_TVvGRIQavf5aqy2fqHc3EmWjCvV-dsqNRPm717POE/edit) for writing your report
-  * Watch [this LL session](https://www.connexus.com/external/livelesson/?url-path=pzh67r7kvlgc&domain=ue2prod01.livelesson.com) for help with completing this lab.
+* You can use [this template](https://docs.google.com/document/d/1G_TVvGRIQavf5aqy2fqHc3EmWjCvV-dsqNRPm717POE/edit) for writing your report
