@@ -6,8 +6,6 @@ featuredImage: /static/img/bacteria.png
 tags:
   - Alternative Tests
   - Unit 3
-  - Important
-  - Hide-on-home
 ---
 Remember you can review for the test here: <https://mnca-biology-message-board.netlify.app/posts/unit-3-review/>.
 
