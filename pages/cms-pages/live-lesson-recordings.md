@@ -25,4 +25,7 @@ Here are a list of this semester's LiveLesson Recordings:
 
 11/3 - [DNA](https://www.connexus.com/external/livelesson/?url-path=pnvpfu8quzx1&domain=ue2prod01.livelesson.com)
 
-11/8 - [Overview of transcription and translation](https://www.connexus.com/external/livelesson/?url-path=psm5h82zsowd&domain=ue2prod01.livelesson.com)
+11/8 - [Overview of transcription and translation](https://www.connexus.com/external/livelesson/?url-path=psm5h82zsowd&domain=ue2prod01.livelesson.com) 
+- Presentation from this session
+- Diagram from this session
+- Answers to diagram from this session
