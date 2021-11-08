@@ -22,3 +22,11 @@ Here are a list of this semester's LiveLesson Recordings:
 10/20 - [Cellular Respiration and Photosynthesis](https://www.connexus.com/external/livelesson/?url-path=p6o6k7u4d9bq&domain=ue2prod01.livelesson.com)
 
 10/27 - [Details of Photosynthesis](https://www.connexus.com/external/livelesson/?url-path=prr5tl4jxkt9&domain=ue2prod01.livelesson.com)
+
+11/3 - [DNA](https://www.connexus.com/external/livelesson/?url-path=pnvpfu8quzx1&domain=ue2prod01.livelesson.com)
+
+11/8 - [Overview of transcription and translation](https://www.connexus.com/external/livelesson/?url-path=psm5h82zsowd&domain=ue2prod01.livelesson.com) 
+
+* [Presentation](https://docs.google.com/presentation/d/1rnNtWiP7ihxAMLyIXiM4MUJCVeFnCq6F98EdgDXMBUI/edit?usp=sharing) from this session
+* [Diagram](https://drive.google.com/file/d/1qO-dSYJiav982_guP_N4_Om08Ium6wsv/view?usp=sharing) from this session
+* [Answers](https://drive.google.com/file/d/1C5KahUPSpZ4stl_DBACNl0D2wLHpf1NQ/view?usp=sharing) to diagram from this session
