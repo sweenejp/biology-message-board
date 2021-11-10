@@ -30,3 +30,8 @@ tags:
 * **[Watch this LL session](https://www.connexus.com/external/livelesson/?url-path=pzh67r7kvlgc&domain=ue2prod01.livelesson.com) for help with completing the lab!**
 * Complete lab online, collect data, then complete your lab report!
 * You can use [this template](https://docs.google.com/document/d/1G_TVvGRIQavf5aqy2fqHc3EmWjCvV-dsqNRPm717POE/edit) for writing your report
+* Watching this video will also help you with this portfolio
+
+<div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/L-osEc07vMs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Option 3 (Another Alternative Option)
