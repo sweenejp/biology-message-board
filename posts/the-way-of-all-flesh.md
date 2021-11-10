@@ -1,11 +1,25 @@
 ---
-title: The Way of All Flesh
+title: Henrietta Lacks Webquest
 date: 2021-11-10T19:13:24.459Z
-summary: Watch this documentary to complete Activity A in the Unit 7 Portfolio
-  (Henrietta Lacks Webquest)
+summary: Here are the instructions for the second portfolio assignment in first
+  semester Biology
 featuredImage: https://upload.wikimedia.org/wikipedia/en/d/d7/Henrietta_Lacks_%281920-1951%29.jpg
 tags:
   - Unit 7
   - Portfolios
 ---
-<div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/C0lMrp_ySg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+## The Immortal Life of Henrietta Lacks WebQuest
+
+A descendent of freed slaves, Henrietta Lacks was an African American tobacco farmer who got cervical cancer when she was 30. A doctor at Johns Hopkins took a piece of her tumor and put it in a test tube without her consent or knowledge and, although she died 8 months later, her cells-known worldwide as HeLa cells-are still alive today. This is her story…
+
+This portfolio is split up into 4 activities. You will complete each activity by using the resources listed below and then completing the questions in the Google Form below the resources. 
+
+Activity A: Watch ***the first 10 minutes*** of this documentary: [The Way of All Flesh](https://www.youtube.com/watch?v=C0lMrp_ySg8&ab_channel=dancetechtv)
+
+Activity B: Use the [Wikipedia page on Henrietta Lacks](http://en.wikipedia.org/wiki/Henrietta_Lacks)
+
+Activity C: Read [this interview](https://www.smithsonianmag.com/science-nature/henrietta-lacks-immortal-cells-6421299/) with author Rebecca Skloot.
+
+Activity D: Watch [this interview](https://www.youtube.com/watch?v=x21YtrY9f0Y) with a bioethicist.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgsX35hqV3lPJ4qsnEFk9lWcySVu7zffGr_pq5NJRizDu4UQ/viewform?embedded=true" width="100%" height="3935" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
