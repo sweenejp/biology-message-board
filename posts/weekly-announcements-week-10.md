@@ -1,7 +1,7 @@
 ---
 title: Weekly Announcements - Week 10
 date: 2021-11-11T18:27:21.657Z
-summary: '"Hold up, I have to read these announcements real quick."'
+summary: '"Ahhh! What happened to my grade?!?!"'
 featuredImage: https://cdn.mos.cms.futurecdn.net/4w5yPEzs4FbMhVSVqJtyAT-970-80.jpg.webp
 tags:
   - Announcements
