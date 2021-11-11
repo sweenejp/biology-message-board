@@ -1,5 +1,5 @@
 ---
-title: Homeostasis Portfolio
+title: "Homeostasis Portfolio (Portfolio #1)"
 date: 2021-10-07T14:13:30.185Z
 summary: The Unit 4 Portfolio is here.
 featuredImage: /static/img/biology.png
@@ -9,6 +9,8 @@ tags:
   - Important
   - Hide-on-home
 ---
+There are three options for this assignment. Choose any of the 3 listed below.
+
 ## Option 1
 
 ### Design and conduct YOUR OWN UNIQUE laboratory experiment dealing with homeostasis.
@@ -36,4 +38,6 @@ tags:
 
 ## Option 3 (Another Alternative Option)
 
-* Coming soon!
+**Please note - if you complete this option, you can earn up to 18/20 points on the portfolio assignment grade.** 18/20 points is still an A- (not bad)! If you want to be able to earn full credit, please choose Option 1 or 2.  
+
+[Click here to view Option 3](https://docs.google.com/forms/d/e/1FAIpQLSe6UJk3mPb4MIreHpYpWMQeAUHji5kpMuolAI9O8h_IpozpIA/viewform?usp=sf_link).
