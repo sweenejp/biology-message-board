@@ -10,6 +10,10 @@ Mr. Sweeney forgot to post an announcement last week (sorry!) so this week's is 
 
 ## Temporary Zeros
 
+![panicking squirrel](https://cdn.mos.cms.futurecdn.net/4w5yPEzs4FbMhVSVqJtyAT-970-80.jpg.webp)
+
+###### "What happened to my grade!?!?"
+
 Temporary zeros were entered into your grade books earlier this week. Temporary zeros are intended as feedback to let you know which lessons you ought to have completed by now. The temporary zero goes away once you complete the missing assignment.
 
 ## Are You Missing Your Unit 4 Portfolio?
