@@ -5,9 +5,9 @@ summary: Here are the instructions for the second portfolio assignment in first
   semester Biology
 featuredImage: https://upload.wikimedia.org/wikipedia/en/d/d7/Henrietta_Lacks_%281920-1951%29.jpg
 tags:
+  - Unit 6
   - Unit 7
   - Portfolios
-  - Unit 6
 ---
 ## The Immortal Life of Henrietta Lacks WebQuest
 
