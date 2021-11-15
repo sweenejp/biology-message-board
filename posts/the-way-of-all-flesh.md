@@ -7,6 +7,7 @@ featuredImage: https://upload.wikimedia.org/wikipedia/en/d/d7/Henrietta_Lacks_%2
 tags:
   - Unit 7
   - Portfolios
+  - Unit 6
 ---
 ## The Immortal Life of Henrietta Lacks WebQuest
 
