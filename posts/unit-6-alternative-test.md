@@ -1,12 +1,13 @@
 ---
 title: Unit 6 Alternative Test
-date: 2021-09-20T15:55:16.607Z
+date: 2021-11-17T19:29:33.959Z
 summary: Take the Unit 6 Alternative Test here on the Message Board!
 featuredImage: /static/img/rna.png
 tags:
   - Alternative Tests
   - Unit 6
   - Important
+  - Hide-on-home
 ---
 This is the Unit 6 Alternative Test.
 
