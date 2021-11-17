@@ -2,6 +2,7 @@
 title: Unit 6 Review and DNA Secret Code Activity
 date: 2021-11-17T22:26:22.928Z
 summary: Review for the Unit 6 Alt Test!
+featuredImage: /static/img/top-secret.png
 tags:
   - Unit 6
   - Extra Credit
