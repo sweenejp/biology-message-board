@@ -32,3 +32,5 @@ Here are a list of this semester's LiveLesson Recordings:
 * [Answers](https://drive.google.com/file/d/1C5KahUPSpZ4stl_DBACNl0D2wLHpf1NQ/view?usp=sharing) to diagram from this session
 
 11/10 - [More on protein synthesis (transcription and translation)](https://www.connexus.com/external/livelesson/?url-path=proqyx0dm2aq&domain=ue2prod01.livelesson.com)
+
+11/17 - [Protein synthesis practice](https://www.connexus.com/external/livelesson/?url-path=p5g6ljtdtrr9&domain=ue2prod01.livelesson.com)
