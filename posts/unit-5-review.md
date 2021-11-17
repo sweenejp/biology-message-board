@@ -5,8 +5,6 @@ summary: Some helpful review before you take the Unit 5 Test.
 featuredImage: https://images.unsplash.com/photo-1587090311790-61e3ae82ac17?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=580&q=80
 tags:
   - Unit 5
-  - Important
-  - Hide-on-home
 ---
 ## Practice quizzes
 
