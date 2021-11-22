@@ -15,7 +15,7 @@ A descendent of freed slaves, Henrietta Lacks was an African American tobacco fa
 
 This portfolio is split up into 4 activities. You will find the activities in the Google Form below after your enter your name and ID. You will use the resources below to help you complete each activity.
 
-Resource for Activity A: Watch ***the first 10 minutes*** of this documentary: [The Way of All Flesh](https://www.youtube.com/watch?v=C0lMrp_ySg8&ab_channel=dancetechtv)
+Resource for Activity A: Watch ***the first 10 minutes*** of this documentary: [The Way of All Flesh](https://watch.screencastify.com/v/WtQ3S7bRraDHaxBmMzOE)
 
 Resource for Activity B: Use the [Wikipedia page on Henrietta Lacks](http://en.wikipedia.org/wiki/Henrietta_Lacks)
 
