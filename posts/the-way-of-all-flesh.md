@@ -8,6 +8,8 @@ tags:
   - Unit 6
   - Unit 7
   - Portfolios
+  - Important
+  - Hide-on-home
 ---
 ## The Immortal Life of Henrietta Lacks WebQuest
 
