@@ -5,8 +5,6 @@ summary: '"Ahhh! What happened to my grade?!?!"'
 featuredImage: https://cdn.mos.cms.futurecdn.net/4w5yPEzs4FbMhVSVqJtyAT-970-80.jpg.webp
 tags:
   - Announcements
-  - Important
-  - Hide-on-home
 ---
 Mr. Sweeney forgot to post an announcement last week (sorry!) so this week's is a little longer than usual. As always, [reach out to one of us Biology teachers](/contact) if you have questions.
 
