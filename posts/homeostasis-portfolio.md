@@ -6,8 +6,6 @@ featuredImage: /static/img/biology.png
 tags:
   - Portfolios
   - Unit 4
-  - Important
-  - Hide-on-home
 ---
 There are three options for this assignment. Choose any of the 3 listed below.
 
