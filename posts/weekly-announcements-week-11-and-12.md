@@ -5,8 +5,6 @@ summary: Aghhhh! Announcements!
 featuredImage: /static/img/frilled-lizard-bbc.jpg
 tags:
   - Announcements
-  - Important
-  - Hide-on-home
 ---
 Before you run off to break like a frilled lizard...
 
