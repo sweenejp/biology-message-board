@@ -7,5 +7,4 @@ tags:
   - Unit 7
   - Hide-everywhere
 ---
-
-The Unit 7 Alternative Test will be posted here soon.
+The Unit 7 Test has been dropped! You may move on to the next lesson in Biology.
