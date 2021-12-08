@@ -34,3 +34,7 @@ Here are a list of this semester's LiveLesson Recordings:
 11/10 - [More on protein synthesis (transcription and translation)](https://www.connexus.com/external/livelesson/?url-path=proqyx0dm2aq&domain=ue2prod01.livelesson.com)
 
 11/17 - [Protein synthesis practice](https://www.connexus.com/external/livelesson/?url-path=p5g6ljtdtrr9&domain=ue2prod01.livelesson.com)
+
+12/1 - [Unit 6 Review](https://www.connexus.com/external/livelesson/?url-path=ps936xew5p2b&domain=ue2prod01.livelesson.com)
+
+12/8 - [Mitosis and Cancer](https://www.connexus.com/external/livelesson/?url-path=pxcr4ez5r48r&domain=ue2prod01.livelesson.com)
