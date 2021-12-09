@@ -24,6 +24,10 @@ For more helpful videos, see below.
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/vl6Vlf2thvI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+<br>
+
+<div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/LsEYgwuP6ko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ## Professor Dave videos
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/bKIpDtJdK8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
