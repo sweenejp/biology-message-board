@@ -38,3 +38,5 @@ Here are a list of this semester's LiveLesson Recordings:
 12/1 - [Unit 6 Review](https://www.connexus.com/external/livelesson/?url-path=ps936xew5p2b&domain=ue2prod01.livelesson.com)
 
 12/8 - [Mitosis and Cancer](https://www.connexus.com/external/livelesson/?url-path=pxcr4ez5r48r&domain=ue2prod01.livelesson.com)
+
+12/15 - [Details About Mitosis](https://www.connexus.com/external/livelesson/?url-path=ptoc86wlh3aj&domain=ue2prod01.livelesson.com)
