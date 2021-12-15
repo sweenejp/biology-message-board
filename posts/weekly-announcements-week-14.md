@@ -5,8 +5,6 @@ summary: You can run, but you can't hide (from the announcements)
 featuredImage: https://images.unsplash.com/photo-1594485770507-89a47e23d901?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80
 tags:
   - Announcements
-  - Important
-  - Hide-on-home
 ---
 ## No Unit 7 Test!
 
