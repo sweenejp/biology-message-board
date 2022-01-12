@@ -6,8 +6,6 @@ featuredImage: /static/img/rna.png
 tags:
   - Alternative Tests
   - Unit 6
-  - Important
-  - Hide-on-home
 ---
 This is the Unit 6 Alternative Test.
 
