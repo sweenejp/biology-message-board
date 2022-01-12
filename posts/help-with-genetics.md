@@ -5,6 +5,7 @@ summary: Resources to help with lessons 6 and 7 in Unit 6.
 featuredImage: https://upload.wikimedia.org/wikipedia/commons/9/9d/Calicocats2222.jpg
 tags:
   - Unit 6
+  - Unit 8
 ---
 ## Genetics - basics
 
