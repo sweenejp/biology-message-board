@@ -42,3 +42,5 @@ Here are a list of this semester's LiveLesson Recordings:
 12/15 - [Details About Mitosis](https://www.connexus.com/external/livelesson/?url-path=ptoc86wlh3aj&domain=ue2prod01.livelesson.com)
 
 1/6 - [Intro to Genetics](https://www.connexus.com/external/livelesson/?url-path=p7rwu306ire2&domain=ue2prod01.livelesson.com)
+
+1/12 - [Genetics continued](https://www.connexus.com/external/livelesson/?url-path=pxflv9b138oi&domain=ue2prod01.livelesson.com)
