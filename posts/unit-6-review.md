@@ -6,8 +6,6 @@ featuredImage: /static/img/top-secret.png
 tags:
   - Unit 6
   - Extra Credit
-  - Important
-  - Hide-on-home
 ---
 Review for the [Unit 6 Alternative Test](/posts/unit-6-alternative-test) by doing the following activities
 
