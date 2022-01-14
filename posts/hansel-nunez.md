@@ -18,6 +18,3 @@ After you complete a unit in Edpuzzle, take the Alternative Test for that unit.
 * (No Unit 7 Test)
 * [Unit 8 Alt Test](/posts/unit-8-alternative-test/)
 
-## Other assignments
-* [Portfolio assignment 1](https://docs.google.com/forms/d/e/1FAIpQLSe6UJk3mPb4MIreHpYpWMQeAUHji5kpMuolAI9O8h_IpozpIA/viewform)
-* [Portfolio assignment 2](https://mnca-biology-message-board.netlify.app/posts/henrietta-lacks-webquest-(portfolio-2)/)
