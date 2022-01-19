@@ -5,8 +5,6 @@ summary: '"Announcements?" You betcha. Read for important info about your grade 
 featuredImage: https://images.unsplash.com/photo-1528189333328-7f467fc180c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80
 tags:
   - Announcements
-  - Important
-  - Hide-on-home
 ---
 **Alright bio fans and friends, listen up! ![laugh](https://www.connexus.com/content/ckeditor_latest/plugins/smiley/images/teeth_smile.png "laugh")**
 
