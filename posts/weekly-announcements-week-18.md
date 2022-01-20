@@ -16,7 +16,7 @@ Today we entered temporary zeros for the rest of the assignments in Biology. If 
 
 * These are just temporary zeros! Once you complete those assignments, the zeros will go away. So really, your grade can only go up from here.
 * Some of you may have temporary zeros for assignments that aren't on your planner until later this week or next week. We still entered in temporary zeros for everyone because we want you to be able see what your grade would be if you didn't do any more work in Biology class. Again, your grade can only go up at this point.
-* If the temporary zeros freak you out, just send me a WebMail and I can remove them for you. Keep in mind though, that those assignments will get a permanent zero if they are left incomplete when the semester ends.
+* If the temporary zeros freak you out, just send me a WebMail and I can remove them for you. Keep in mind, though, that those assignments will get a permanent zero if they are left incomplete when the semester ends.
 
 ## Unit 8 Alternative Test
 
