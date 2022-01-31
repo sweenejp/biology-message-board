@@ -1,12 +1,12 @@
-<section class="postslist-grid">
+<section class="postslist-grid-reverse-mini">
 	{% for post in postslist | reverse %}
-		{% if "Hide-everywhere" in post.data.tags or "firstsemester" in post.data.tags %}
+		{% if "Hide-everywhere" in post.data.tags %}
     {% else %}
-		<article class="post-card" {% if post.url == url %} data-current="current item"{% endif %}>
+		<article class="post-card post-card-mini" {% if post.url == url %} data-current="current item"{% endif %}>
 			{% if post.data.featuredImage %}
-				<a href="{{ post.url | url }}"><img class="post-card-image"src="{{ post.data.featuredImage }}" loading="lazy" alt=""></a>
+				<a href="{{ post.url | url }}"><img class="post-card-image post-card-image-mini"src="{{ post.data.featuredImage }}" loading="lazy" alt=""></a>
 			{% endif %}
-			<div class="post-card-body">
+			<div class="post-card-body post-card-body-mini">
 				<a href="{{ post.url | url }}">
 					<h3 class="post-card-title">
 						{% if post.data.title %}

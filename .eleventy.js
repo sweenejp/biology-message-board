@@ -1,29 +1,30 @@
-const { DateTime } = require("luxon");
-const CleanCSS = require("clean-css");
-const UglifyJS = require("uglify-es");
-const htmlmin = require("html-minifier");
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const fs = require("fs");
-const path = require("path");
+const { DateTime } = require('luxon');
+const CleanCSS = require('clean-css');
+const UglifyJS = require('uglify-es');
+const htmlmin = require('html-minifier');
+const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
+const fs = require('fs');
+const path = require('path');
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addCollection("tagList", function (collection) {
+  eleventyConfig.addCollection('tagList', function (collection) {
     let tagSet = new Set();
     collection.getAll().forEach(function (item) {
-      if ("tags" in item.data) {
+      if ('tags' in item.data) {
         let tags = item.data.tags;
 
         tags = tags.filter(function (item) {
           switch (item) {
             // this list should match the `filter` list in tags.njk
-            case "all":
-            case "nav":
-            case "post":
-            case "posts":
-            case "Important":
-            case "teacher":
-            case "Hide-on-home":
-            case "Hide-everywhere":
+            case 'all':
+            case 'nav':
+            case 'post':
+            case 'posts':
+            case 'Important':
+            case 'teacher':
+            case 'Hide-on-home':
+            case 'Hide-everywhere':
+            case 'firstsemester':
               return false;
           }
 
@@ -53,33 +54,33 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
   // Date formatting (human readable)
-  eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj).toFormat("MMM d, yyyy");
+  eleventyConfig.addFilter('readableDate', (dateObj) => {
+    return DateTime.fromJSDate(dateObj).toFormat('MMM d, yyyy');
   });
 
   // Date formatting (machine readable)
-  eleventyConfig.addFilter("machineDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
+  eleventyConfig.addFilter('machineDate', (dateObj) => {
+    return DateTime.fromJSDate(dateObj).toFormat('yyyy-MM-dd');
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function (code) {
+  eleventyConfig.addFilter('cssmin', function (code) {
     return new CleanCSS({}).minify(code).styles;
   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function (code) {
+  eleventyConfig.addFilter('jsmin', function (code) {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
-      console.log("UglifyJS error: ", minified.error);
+      console.log('UglifyJS error: ', minified.error);
       return code;
     }
     return minified.code;
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
-    if (outputPath.indexOf(".html") > -1) {
+  eleventyConfig.addTransform('htmlmin', function (content, outputPath) {
+    if (outputPath.indexOf('.html') > -1) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
@@ -91,14 +92,14 @@ module.exports = function (eleventyConfig) {
   });
 
   // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("favicon.ico");
-  eleventyConfig.addPassthroughCopy("static/img");
-  eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("_includes/assets/");
+  eleventyConfig.addPassthroughCopy('favicon.ico');
+  eleventyConfig.addPassthroughCopy('static/img');
+  eleventyConfig.addPassthroughCopy('admin');
+  eleventyConfig.addPassthroughCopy('_includes/assets/');
 
   /* Markdown Plugins */
-  let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
+  let markdownIt = require('markdown-it');
+  let markdownItAnchor = require('markdown-it-anchor');
   let options = {
     html: true,
     breaks: true,
@@ -109,27 +110,27 @@ module.exports = function (eleventyConfig) {
   };
 
   eleventyConfig.setLibrary(
-    "md",
+    'md',
     markdownIt(options).use(markdownItAnchor, opts)
   );
 
   return {
-    templateFormats: ["md", "njk", "html", "liquid", "js"],
+    templateFormats: ['md', 'njk', 'html', 'liquid', 'js'],
 
     // If your site lives in a different subdirectory, change this.
     // Leading or trailing slashes are all normalized away, so don’t worry about it.
     // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
     // This is only used for URLs (it does not affect your file structure)
-    pathPrefix: "/",
+    pathPrefix: '/',
 
-    markdownTemplateEngine: "liquid",
-    htmlTemplateEngine: "njk",
-    dataTemplateEngine: "njk",
+    markdownTemplateEngine: 'liquid',
+    htmlTemplateEngine: 'njk',
+    dataTemplateEngine: 'njk',
     dir: {
-      input: ".",
-      includes: "_includes",
-      data: "_data",
-      output: "_site",
+      input: '.',
+      includes: '_includes',
+      data: '_data',
+      output: '_site',
     },
   };
 };
