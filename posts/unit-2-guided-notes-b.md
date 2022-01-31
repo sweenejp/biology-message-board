@@ -1,6 +1,6 @@
 ---
 title: Unit 2B Guided Notes
-date: 2021-12-06T17:51:25.939Z
+date: 2022-01-31T20:47:18.417Z
 summary: Guided notes for The Carbon Cycle
 tags:
   - Guides
