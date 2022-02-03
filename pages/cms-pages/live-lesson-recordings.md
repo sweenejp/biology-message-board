@@ -3,7 +3,11 @@ title: LiveLesson Recordings
 date: 2021-10-28T18:42:53.255Z
 permalink: /livelesson-recordings/index.html
 ---
-Here are a list of this semester's LiveLesson Recordings:
+### Semester B
+
+2/3 - [Intro to Carbon Cycle](https://www.connexus.com/external/livelesson/?url-path=pyeu4d9dbjvp&domain=ue2prod01.livelesson.com)
+
+### Semester A
 
 9/8 - [Introduction to Course/Macromolecules](https://www.connexus.com/external/livelesson/?url-path=pv0713zdtb4k&domain=ue2prod01.livelesson.com)
 
@@ -46,4 +50,3 @@ Here are a list of this semester's LiveLesson Recordings:
 1/12 - [Genetics continued](https://www.connexus.com/external/livelesson/?url-path=pxflv9b138oi&domain=ue2prod01.livelesson.com)
 
 1/18 - [More Genetics Concepts](https://www.connexus.com/external/livelesson/?url-path=pu39nxc2xav9&domain=ue2prod01.livelesson.com)
-
