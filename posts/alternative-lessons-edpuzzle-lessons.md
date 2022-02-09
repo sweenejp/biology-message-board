@@ -21,7 +21,7 @@ You should have received a WebMail from one of the Biology teachers about your u
 
 ## How to do the lessons
 
-Once you are logged in, you should see a list of "classes" on the left sidebar. These are really just the different Units in our Biology class. Click on the Unit you wish to work on and select the first video to complete.
+Once you are logged in, you should see a list of "classes" on the left sidebar. These represent the different Units in our Biology class. Click on the Unit you wish to work on and select the first video to complete.
 
 As always, [feel free to reach out if you have questions](/contact).
 
