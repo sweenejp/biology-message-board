@@ -24,3 +24,12 @@ You should have received a WebMail from one of the Biology teachers about your u
 Once you are logged in, you should see a list of "classes" on the left sidebar. These are really just the different Units in our Biology class. Click on the Unit you wish to work on and select the first video to complete.
 
 As always, [feel free to reach out if you have questions](/contact).
+
+## Links to join Edpuzzle Lessons
+
+* [Unit 2B](https://edpuzzle.com/join/vibomvi)
+* Unit 3B (coming soon!)
+* Unit 4B (coming soon!)
+* Unit 6B (coming soon!)
+* Unit 7B (coming soon!)
+* Unit 8B (coming soon!)
