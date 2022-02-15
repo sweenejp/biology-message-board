@@ -7,6 +7,8 @@ permalink: /livelesson-recordings/index.html
 
 2/3 - [Intro to Carbon Cycle](https://www.connexus.com/external/livelesson/?url-path=pyeu4d9dbjvp&domain=ue2prod01.livelesson.com)
 
+2/10 - [Carbon Footprint](https://www.connexus.com/external/livelesson/?url-path=pqwwvki8xvf8&domain=ue2prod01.livelesson.com)
+
 ### Semester A
 
 9/8 - [Introduction to Course/Macromolecules](https://www.connexus.com/external/livelesson/?url-path=pv0713zdtb4k&domain=ue2prod01.livelesson.com)
