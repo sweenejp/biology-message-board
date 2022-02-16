@@ -1,6 +1,6 @@
 ---
 title: Unit 3B Guided Notes
-date: 2022-02-16T17:03:31.438Z
+date: 2022-02-01T17:05:18.551Z
 summary: Guided notes for Energy Flow
 tags:
   - Guides
