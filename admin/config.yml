@@ -5,178 +5,209 @@ backend:
 # Uncomment below to enable drafts
 publish_mode: editorial_workflow
 
-media_folder: "static/img" # Media files will be stored in the repo under images/uploads
+media_folder: 'static/img' # Media files will be stored in the repo under images/uploads
 
 collections:
   # Our blog posts
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Post" # Used in the UI
-    folder: "posts" # The path to the folder where the documents are stored
+  - name: 'blog' # Used in routes, e.g., /admin/collections/blog
+    label: 'Post' # Used in the UI
+    folder: 'posts' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - {
-          label: "Summary",
-          name: "summary",
+          label: 'Summary',
+          name: 'summary',
           required: false,
-          widget: "text",
-          hint: "This is the text that will appear below the post title on the home page.",
+          widget: 'text',
+          hint: 'This is the text that will appear below the post title on the home page.',
         }
       - {
-          label: "Featured Image",
-          name: "featuredImage",
-          widget: "image",
+          label: 'Featured Image',
+          name: 'featuredImage',
+          widget: 'image',
           required: false,
           hint: "Add an image to the post's card. This is what appears next to the post title on the home page.",
         }
       - {
-          label: "Tags",
-          name: "tags",
-          widget: "select",
+          label: 'Tags',
+          name: 'tags',
+          widget: 'select',
           multiple: true,
           options:
             [
-              "Alternative Tests",
-              "Announcements",
-              "Extra Credit",
-              "FAQs",
-              "How To",
-              "Important",
-              "Lessons",
-              "Guides",
-              "Portfolios",
-              "Sample Work",
-              "Unit 1",
-              "Unit 2",
-              "Unit 3",
-              "Unit 4",
-              "Unit 5",
-              "Unit 6",
-              "Unit 7",
-              "Unit 8",
-              "Hide-on-home",
-              "Hide-everywhere",
+              'Alternative Tests',
+              'Announcements',
+              'Extra Credit',
+              'FAQs',
+              'How To',
+              'Important',
+              'Lessons',
+              'Guides',
+              'Portfolios',
+              'Sample Work',
+              'Unit 1',
+              'Unit 2',
+              'Unit 3',
+              'Unit 4',
+              'Unit 5',
+              'Unit 6',
+              'Unit 7',
+              'Unit 8',
+              'Hide-on-home',
+              'Hide-everywhere',
             ],
           hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide-on-home' will keep the post off the Home Page.",
         }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   # Teacher Pages
-  - name: "teachers"
-    label: "Teacher Page"
-    folder: "pages/teachers"
+  - name: 'teachers'
+    label: 'Teacher Page'
+    folder: 'pages/teachers'
     create: true # Change to true to allow editors to create new pages
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - {
-          label: "Your Name",
-          name: "teacherName",
-          widget: "string",
+          label: 'Your Name',
+          name: 'teacherName',
+          widget: 'string',
           hint: "This is how your name will be displayed (i.e 'Ms. Smith' or 'Suzzy Smith')",
         }
       - {
-          label: "Image",
-          name: "featuredImage",
-          widget: "image",
+          label: 'Image',
+          name: 'featuredImage',
+          widget: 'image',
           required: false,
-          default: "https://freesvgdesigns.com/wp-content/uploads/2020/09/00034.png",
+          default: 'https://freesvgdesigns.com/wp-content/uploads/2020/09/00034.png',
         }
       - {
-          label: "Youcanbook.me Page",
-          name: "youcanbookmeURL",
+          label: 'Youcanbook.me Page',
+          name: 'youcanbookmeURL',
           required: false,
-          hint: "Paste the link to your youcanbook.me page",
-          widget: "string",
+          hint: 'Paste the link to your youcanbook.me page',
+          widget: 'string',
         }
       - {
-          label: "WebMail",
-          name: "webmailURL",
+          label: 'WebMail',
+          name: 'webmailURL',
           required: false,
-          hint: "Paste the link to your WebMail",
-          widget: "string",
+          hint: 'Paste the link to your WebMail',
+          widget: 'string',
         }
       - {
-          label: "Phone Number",
-          name: "phoneNumber",
+          label: 'Phone Number',
+          name: 'phoneNumber',
           required: false,
-          widget: "string",
+          widget: 'string',
         }
       - {
-          label: "Office Hours",
-          name: "officeHours",
+          label: 'Office Hours',
+          name: 'officeHours',
           required: false,
-          widget: "string",
+          widget: 'string',
         }
       - {
-          label: "LiveLesson Room",
-          name: "livelessonURL",
+          label: 'LiveLesson Room',
+          name: 'livelessonURL',
           required: false,
-          widget: "string",
-          hint: "Paste the link to your LL room here",
+          widget: 'string',
+          hint: 'Paste the link to your LL room here',
         }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   # Other pages
-  - name: "pages"
-    label: "Pages"
-    folder: "pages/cms-pages"
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'pages/cms-pages'
     create: false # Change to true to allow editors to create new pages
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "archive"
-    label: "Archived Posts"
-    folder: "archive"
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'archive'
+    label: 'Archived Posts'
+    folder: 'archive'
     create: false
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     fields: # Archived fields should match the "posts" fields
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - {
-          label: "Summary",
-          name: "summary",
+          label: 'Summary',
+          name: 'summary',
           required: false,
-          widget: "text",
-          hint: "This is the text that will appear below the post title on the home page.",
+          widget: 'text',
+          hint: 'This is the text that will appear below the post title on the home page.',
         }
       - {
-          label: "Featured Image",
-          name: "featuredImage",
-          widget: "image",
+          label: 'Featured Image',
+          name: 'featuredImage',
+          widget: 'image',
           required: false,
           hint: "Add an image to the post's card. This is what appears next to the post title on the home page.",
         }
       - {
-          label: "Tags",
-          name: "tags",
-          widget: "select",
+          label: 'Tags',
+          name: 'tags',
+          widget: 'select',
           multiple: true,
           options:
             [
-              "Alternative Tests",
-              "Announcements",
-              "Extra Credit",
-              "FAQs",
-              "How To",
-              "Important",
-              "Lessons",
-              "Guides",
-              "Portfolios",
-              "Unit 1",
-              "Unit 2",
-              "Unit 3",
-              "Unit 4",
-              "Unit 5",
-              "Unit 6",
-              "Unit 7",
-              "Unit 8",
-              "Hide-on-home",
-              "Hide-everywhere",
+              'Alternative Tests',
+              'Announcements',
+              'Extra Credit',
+              'FAQs',
+              'How To',
+              'Important',
+              'Lessons',
+              'Guides',
+              'Portfolios',
+              'Unit 1',
+              'Unit 2',
+              'Unit 3',
+              'Unit 4',
+              'Unit 5',
+              'Unit 6',
+              'Unit 7',
+              'Unit 8',
+              'Hide-on-home',
+              'Hide-everywhere',
             ],
           hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide-on-home' will keep the post off the Home Page.",
         }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'first-semester'
+    label: 'First Semester Posts'
+    folder: 'posts/firstsemester'
+    create: false
+    slug: '{{slug}}'
+    fields: # Archived fields should match the "posts" fields
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - {
+          label: 'Summary',
+          name: 'summary',
+          required: false,
+          widget: 'text',
+          hint: 'This is the text that will appear below the post title on the home page.',
+        }
+      - {
+          label: 'Featured Image',
+          name: 'featuredImage',
+          widget: 'image',
+          required: false,
+          hint: "Add an image to the post's card. This is what appears next to the post title on the home page.",
+        }
+      - {
+          label: 'Tags',
+          name: 'tags',
+          widget: 'select',
+          multiple: true,
+          options: ['firstsemester'],
+          hint: "Posts tagged with 'Important' will show up at the top of the home page. Tagging with 'Hide-on-home' will keep the post off the Home Page.",
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
