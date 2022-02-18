@@ -32,8 +32,8 @@ As always, [feel free to reach out if you have questions](/contact).
 ## Links to join Edpuzzle Lessons
 
 * [Unit 2B](https://edpuzzle.com/join/vibomvi)
-* Unit 3B (coming soon!)
-* Unit 4B (coming soon!)
-* Unit 6B (coming soon!)
-* Unit 7B (coming soon!)
-* Unit 8B (coming soon!)
+* [Unit 3B](https://edpuzzle.com/join/unekenu!)
+* [Unit 4B](https://edpuzzle.com/join/nidfeka)
+* [Unit 6B](https://edpuzzle.com/join/teutari)
+* [Unit 7B](https://edpuzzle.com/join/hehojka)
+* [Unit 8B](https://edpuzzle.com/join/jipeczu)
