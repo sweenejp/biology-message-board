@@ -6,4 +6,6 @@ tags:
   - Portfolios
   - Unit 5
 ---
-https://docs.google.com/forms/d/e/1FAIpQLSdeuGzetPucpVpbPckAJgUxZSSdfFw4hAE3LkNih2FSchkgCg/viewform?usp=sf_link
+Below are the instructions for the Biodiversity Seminar Option. 
+
+<https://docs.google.com/forms/d/e/1FAIpQLSdeuGzetPucpVpbPckAJgUxZSSdfFw4hAE3LkNih2FSchkgCg/viewform?usp=sf_link>
