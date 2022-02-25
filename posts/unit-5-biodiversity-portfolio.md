@@ -11,4 +11,4 @@ Do one of the following options in order to complete the Unit 5 portfolio assign
 * [Biodiversity WebQuest](/posts/biodiversity-webquest/)
 * [Biodiversity Presentation](/posts/biodiversity-presentation)
 * [Biodiversity Seminar Summary](https://mnca-biology-message-board.netlify.app/posts/biodiversity-seminar-summary/)
-* [Rabbit Invasion! PHET Simulation](https://mnca-biology-message-board.netlify.app/posts/biodiversity-rabbit-invasion/)
+* [Biodiversity Rabbit Invasion!](https://mnca-biology-message-board.netlify.app/posts/biodiversity-rabbit-invasion/)
