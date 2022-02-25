@@ -2,6 +2,7 @@
 title: Unit 5 Biodiversity Portfolio
 date: 2022-02-21T21:42:45.184Z
 summary: See here for your options for completing the Unit 5 portfolio assignment.
+featuredImage: /static/img/screen-shot-2022-02-25-at-10.38.56-am.png
 tags:
   - Unit 5
   - Portfolios
