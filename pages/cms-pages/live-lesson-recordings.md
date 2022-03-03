@@ -13,6 +13,8 @@ permalink: /livelesson-recordings/index.html
 
 2/23 - [Energy Pyramids & Biomagnification](https://www.connexus.com/external/livelesson/?url-path=rpb2r0kdtgapc&domain=ue2prod01.livelesson.com)
 
+3/2 -[ Classification of Living Things](https://www.connexus.com/external/livelesson/?url-path=prlsqzyaewc9&domain=ue2prod01.livelesson.com)
+
 ### Semester A
 
 9/8 - [Introduction to Course/Macromolecules](https://www.connexus.com/external/livelesson/?url-path=pv0713zdtb4k&domain=ue2prod01.livelesson.com)
