@@ -6,8 +6,6 @@ featuredImage: /static/img/screen-shot-2022-03-07-at-1.53.17-pm.png
 tags:
   - Lessons
 ---
-
-
 Welcome to the instructions for the Alternative Biology Lessons! These are also known as the Edpuzzle Lessons. 
 
 ### Note! You should only have access to these lessons if Ms. Johnston or Mrs. Ruble informed you that you have the option to do these Alternative Lessons.
@@ -35,7 +33,7 @@ As always, [feel free to reach out if you have questions](/contact).
 ## Links to join Edpuzzle Lessons
 
 * [Unit 2B](https://edpuzzle.com/join/vibomvi)
-* [Unit 3B](https://edpuzzle.com/join/unekenu!)
+* [Unit 3B](https://edpuzzle.com/join/unekenu)
 * [Unit 4B](https://edpuzzle.com/join/nidfeka)
 * [Unit 6B](https://edpuzzle.com/join/teutari)
 * [Unit 7B](https://edpuzzle.com/join/hehojka)
