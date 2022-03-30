@@ -6,7 +6,6 @@ summary: "Please be sure to read this post to learn about upcoming changes in
 featuredImage: /static/img/manuel-barroso-parejo-m9f8vr0jepm-unsplash.jpg
 tags:
   - Announcements
-  - Important
 ---
 Hey there fantastic bio students, 
 
