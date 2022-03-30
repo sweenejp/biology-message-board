@@ -6,8 +6,6 @@ featuredImage: /static/img/recycle.png
 tags:
   - Unit 2
   - Alternative Tests
-  - Important
-  - Hide-on-home
 ---
 This is the Unit 2 Alternative Test.
 
