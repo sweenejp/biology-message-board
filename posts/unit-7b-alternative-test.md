@@ -7,8 +7,6 @@ tags:
   - Alternative Tests
   - Unit 7
 ---
-
-
 This is the Unit 3 & 4 Alternative Test.
 
 * Remember to hit "Submit" when you are done!
