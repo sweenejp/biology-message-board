@@ -21,6 +21,8 @@ permalink: /livelesson-recordings/index.html
 
 3/30 -[ Intro to Natural Selection and Evolution](https://www.connexus.com/external/livelesson/?url-path=ps6piq90j0kt/domain=ue2prod01.livelesson.com)
 
+4/6 - [Rabbit Invasion Portfolio Help! ](https://www.connexus.com/external/livelesson/?url-path=p0qiteywdtfb&domain=ue2prod01.livelesson.com)
+
 ### Semester A
 
 9/8 - [Introduction to Course/Macromolecules](https://www.connexus.com/external/livelesson/?url-path=pv0713zdtb4k&domain=ue2prod01.livelesson.com)
