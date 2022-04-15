@@ -3,6 +3,7 @@ title: About Mrs. Moser
 date: 2022-04-15T14:05:46.555Z
 teacherName: Mrs. Moser
 featuredImage: /static/img/ivette-moser.jpg
+youcanbookmeURL: https://ivettemoser.youcanbook.me/
 webmailURL: https://www.connexus.com/communication/webmail/writeMessage.aspx?idRecipient=4701792
 phoneNumber: (410) 429-7725
 officeHours: 8:30am-10:30am Monday - Thursday
