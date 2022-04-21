@@ -1,7 +1,7 @@
 ---
 title: How do I do the Unit 5 Portfolio?!
 date: 2022-03-30T16:32:06.107Z
-summary: Don't worry, there are options! Read on....
+summary: ""
 featuredImage: /static/img/screen-shot-2022-03-30-at-11.33.26-am.png
 tags:
   - Important
