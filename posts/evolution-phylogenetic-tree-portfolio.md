@@ -1,6 +1,7 @@
 ---
 title: Evolution Phylogenetic Tree Portfolio
 date: 2022-04-21T19:41:56.096Z
+summary: One of the options for the Unit 8 portfolio assignment
 tags:
   - Portfolios
   - Unit 8
