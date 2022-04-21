@@ -1,7 +1,7 @@
 ---
 title: Evolution Peppered Moth Portfolio
 date: 2022-04-21T19:38:25.216Z
-summary: This is one of your options for the Unit 8 Portfolio.
+summary: ""
 tags:
   - Portfolios
   - Unit 8
