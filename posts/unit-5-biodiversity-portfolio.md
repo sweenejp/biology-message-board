@@ -6,7 +6,6 @@ featuredImage: /static/img/screen-shot-2022-02-25-at-10.38.56-am.png
 tags:
   - Unit 5
   - Portfolios
-  - Important
 ---
 Do one of the following options in order to complete the Unit 5 portfolio assignment:
 
