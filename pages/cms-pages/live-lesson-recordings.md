@@ -25,6 +25,8 @@ permalink: /livelesson-recordings/index.html
 
 4/13 - [Evidence for Evolution Part 1](https://www.connexus.com/external/livelesson/?url-path=puer6nii8lxy&domain=ue2prod01.livelesson.com)
 
+4/20 - [Evidence for Evolution Part 2](https://www.connexus.com/external/livelesson/?url-path=pnem892oheqw&domain=ue2prod01.livelesson.com)
+
 ### Semester A
 
 9/8 - [Introduction to Course/Macromolecules](https://www.connexus.com/external/livelesson/?url-path=pv0713zdtb4k&domain=ue2prod01.livelesson.com)
