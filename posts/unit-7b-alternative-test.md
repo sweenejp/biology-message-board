@@ -8,7 +8,7 @@ tags:
   - Unit 7
   - Important
 ---
-This is the Unit 3 & 4 Alternative Test.
+This is the Unit 6 & 7 Alternative Test.
 
 * Remember to hit "Submit" when you are done!
 * Once you hit submit, you are all set. Don't worry if you don't happen to see a confirmation message. As long as you click "submit", we will receive your test.
