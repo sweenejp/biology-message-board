@@ -19,18 +19,10 @@ Many of you are confused about the U5 Biodiversity Portfolio. Hopefully this hel
 
 CHOOSE ONE:
 
-
-
 * [Biodiversity WebQuest](https://mnca-biology-message-board.netlify.app/posts/biodiversity-webquest/) *(watch videos and respond)*
-
-
 * [Biodiversity Presentation](https://mnca-biology-message-board.netlify.app/posts/biodiversity-presentation) *(create and upload directly to dropbox)*
 * [Biodiversity Seminar Summary](https://mnca-biology-message-board.netlify.app/posts/biodiversity-seminar-summary/) *(listen to scientists and tell us what you learned!)*
-* [Biodiversity Rabbit Invasion!](https://mnca-biology-message-board.netlify.app/posts/biodiversity-rabbit-invasion/) *(Fun lab simulation with bunnies!)*
-
-
-
-
+* [Biodiversity Rabbit Invasion!](https://mnca-biology-message-board.netlify.app/posts/biodiversity-rabbit-invasion/) *(Fun lab simulation with bunnies! Use [this recording](https://www.connexus.com/external/livelesson/?url-path=p0qiteywdtfb&domain=ue2prod01.livelesson.com) to guide you!)*
 
 ![](/static/img/screen-shot-2022-03-30-at-11.51.35-am.png)
 
