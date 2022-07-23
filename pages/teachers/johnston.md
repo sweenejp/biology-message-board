@@ -10,14 +10,10 @@ youcanbookmeURL: https://emily-johnston.youcanbook.me
 phoneNumber: 651-323-1494
 officeHours: ""
 ---
+Welcome to the wonderful world of biology! I am beyond excited to open your minds to the curious anextrardinaryysterious ways of living things! 
+
 ![](/static/img/screen-shot-2020-09-08-at-9.16.51-am.png)
 
-Oh hey there!
-
-Glad you found this page, it means you are off to a great start! Here is a little about me...
-
-I am passionate about animals, adventure and protecting and preserving our planet. I would almost always rather be outside and I like to be on the move! Motorcycles, horses, backpacking, cycling, kayaking, thrifting, hikes with the dogs...but I also enjoy slowing down for coffee and a good book, playing records, knitting, or binging a show. 
-
-What do we have in common? What do you have in your life that's not on my list? Let's talk about it! 
+Ms. Johnston is passionate about animals, adventure, and protecting and preserving our planet. She would almost always rather be outside and likes to be on the move!
 
 ![](/static/img/screen-shot-2020-08-26-at-10.23.57-am.png)
