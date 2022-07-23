@@ -4,7 +4,7 @@ date: 2021-09-07T14:40:39.010Z
 summary: Everything you need to know to get started on the right foot
 featuredImage: https://images.unsplash.com/photo-1511876484235-b5246a4d6dd5?ixlib=rb-1.2.1&auto=format&fit=crop&w=648&q=80
 tags:
-  - Announcements
+  - firstsemester
 ---
 ### Welcome to the wonderful world of BIOLOGY!!
 
