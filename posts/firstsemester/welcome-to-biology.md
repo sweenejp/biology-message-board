@@ -6,7 +6,6 @@ featuredImage: https://images.unsplash.com/photo-1511876484235-b5246a4d6dd5?ixli
 tags:
   - Announcements
 ---
-
 ### Welcome to the wonderful world of BIOLOGY!!
 
 All class resources and contact information can be found on the class [Message Board!](https://mnca-biology-message-board.netlify.app/)
@@ -21,11 +20,11 @@ You can USE YOUR NOTES on assessments. NOT the Internet.
 
 CONTACT US when you need something!
 
-If you have a question, you can call or text your Biology teacher (either Ms. Johnston, Ms. Ruble, or Mr. Sweeney - we all work together as a team). You can also book a time to meet in our LiveLesson rooms. [What is a LiveLesson room anyway?](/posts/what's-a-livelesson-room)
+If you have a question, you can call or text your Biology teacher (either Ms. Johnston, Ms. Ruble, or Mr. Michaletz - we all work together as a team). You can also book a time to meet in our LiveLesson rooms. [What is a LiveLesson room anyway?](/posts/what's-a-livelesson-room)
 
-- [Book a meeting with Ms. Johnston](https://emily-johnston.youcanbook.me)
-- [Book a meeting with Ms. Ruble](http://larublemnca.youcanbook.me)
-- [Book a meeting with Mr. Sweeney](https://jasweeney.youcanbook.me)
+* [Book a meeting with Ms. Johnston](https://emily-johnston.youcanbook.me)
+* [Book a meeting with Ms. Ruble](http://larublemnca.youcanbook.me)
+* [Book a meeting with Mr. Michaletz](https://rmichaletz.youcanbook.me)
 
 We are looking forward to this semester!
 
