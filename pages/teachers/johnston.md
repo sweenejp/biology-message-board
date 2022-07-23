@@ -10,7 +10,7 @@ youcanbookmeURL: https://emily-johnston.youcanbook.me
 phoneNumber: 651-323-1494
 officeHours: ""
 ---
-Welcome to the wonderful world of biology! I am beyond excited to open your minds to the curious anextrardinaryysterious ways of living things! 
+Welcome to the wonderful world of biology! I am beyond excited to open your minds to the curious and sometimes mysterious ways of living things! 
 
 ![](/static/img/screen-shot-2020-09-08-at-9.16.51-am.png)
 
