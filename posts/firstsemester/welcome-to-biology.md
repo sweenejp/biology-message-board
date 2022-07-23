@@ -4,9 +4,8 @@ date: 2021-09-07T14:40:39.010Z
 summary: Everything you need to know to get started on the right foot
 featuredImage: https://images.unsplash.com/photo-1511876484235-b5246a4d6dd5?ixlib=rb-1.2.1&auto=format&fit=crop&w=648&q=80
 tags:
-  - Announcements
+  - firstsemester
 ---
-
 ### Welcome to the wonderful world of BIOLOGY!!
 
 All class resources and contact information can be found on the class [Message Board!](https://mnca-biology-message-board.netlify.app/)
@@ -21,11 +20,11 @@ You can USE YOUR NOTES on assessments. NOT the Internet.
 
 CONTACT US when you need something!
 
-If you have a question, you can call or text your Biology teacher (either Ms. Johnston, Ms. Ruble, or Mr. Sweeney - we all work together as a team). You can also book a time to meet in our LiveLesson rooms. [What is a LiveLesson room anyway?](/posts/what's-a-livelesson-room)
+If you have a question, you can call or text your Biology teacher (either Ms. Johnston, Ms. Ruble, or Mr. Michaletz - we all work together as a team). You can also book a time to meet in our LiveLesson rooms. [What is a LiveLesson room anyway?](/posts/what's-a-livelesson-room)
 
-- [Book a meeting with Ms. Johnston](https://emily-johnston.youcanbook.me)
-- [Book a meeting with Ms. Ruble](http://larublemnca.youcanbook.me)
-- [Book a meeting with Mr. Sweeney](https://jasweeney.youcanbook.me)
+* [Book a meeting with Ms. Johnston](https://emily-johnston.youcanbook.me)
+* [Book a meeting with Ms. Ruble](http://larublemnca.youcanbook.me)
+* [Book a meeting with Mr. Michaletz](https://rmichaletz.youcanbook.me)
 
 We are looking forward to this semester!
 
