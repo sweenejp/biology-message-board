@@ -5,10 +5,10 @@ livelessonURL: https://www.connexus.com/external/livelesson/?url-path=lruble&dom
 permalink: /ruble/index.html
 date: 2021-01-28T18:44:38.543Z
 teacherName: Ms. Ruble
-featuredImage: /static/img/60czl-0_400x400.jpg
-youcanbookmeURL: http://larublemnca.youcanbook.me
-phoneNumber: 704-600-7121
+featuredImage: /static/img/245337460_10158579391787099_305484849549309688_n.jpg
+youcanbookmeURL: https://calendar.app.google/s2bi8GQGVTzWrkNw9
+phoneNumber: (507) 291-8739
 ---
 Welcome, Fellow Biology Lovers!
 
-Mrs. Ruble is a runner, hiker, invertebrate-lover and science enthusiast who LOVES to share science experiences with students! Join me in Group LL each Wednesday afternoon, or meet my in Office Hours, Tuesdays and Thursdays 1-4pm CST.
+Mrs. Ruble is a runner, hiker, invertebrate-lover and science enthusiast who LOVES to share science experiences with students! Join me in Group LL each Wednesday afternoon, or meet my in Office Hours (click [HERE](https://calendar.app.google/s2bi8GQGVTzWrkNw9) to book).
