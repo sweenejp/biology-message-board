@@ -5,7 +5,7 @@ summary: "Please be sure to read this post to learn about upcoming changes in
   the class. "
 featuredImage: /static/img/manuel-barroso-parejo-m9f8vr0jepm-unsplash.jpg
 tags:
-  - Announcements
+  - Hide-everywhere
 ---
 Hey there fantastic bio students, 
 
