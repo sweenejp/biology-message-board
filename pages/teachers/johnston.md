@@ -6,7 +6,7 @@ title: About Ms. Johnston
 date: 2021-01-27T23:16:40.310Z
 teacherName: Ms. Johnston
 featuredImage: /static/img/ms.-johnston.jpeg
-youcanbookmeURL: https://emily-johnston.youcanbook.me
+youcanbookmeURL: https://calendar.app.google/F3ygrMzFHhi7nRme6
 phoneNumber: 651-323-1494
 officeHours: ""
 ---
