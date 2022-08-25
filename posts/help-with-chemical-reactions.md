@@ -6,6 +6,8 @@ summary: |
 tags:
   - Unit 2
 ---
+![]()
+
 This video will help you better understand lesson 6!
 
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/qgVFkRn8f10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
