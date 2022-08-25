@@ -1,57 +1,58 @@
 <!doctype html>
-<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
-
-	{% include "components/head.njk" %}
-
-	<body>
-
-		<header>
-			<div class="title-div">
-                <h1 class="site-title"><a href="/">{{ metadata.title }}</a></h1>
-                <p class="site-subtitle">{{ metadata.subtitle }}</p>
-            </div>
-			{% include "components/nav.njk" %}
-		</header>
-
-		<main>
-			{{ layoutContent | safe }}
-		</main>
-
-		{% if page.url != "/tags/" %}
-		<div>
-		    <div class="sidebar">
-    			<h2 class="sidebar-heading">All Tags</h2>
-    			<ul class="sidebar-list">
-						<li class="sidebar-list-item"><a href="/firstsemester/" class="post-tag" rel="tag">First Semester</a></li>
-    				{% for tag in collections.tagList | sort %}
-    				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-    				<li class="sidebar-list-item"><a href="{{ tagUrl | url }}" class="post-tag" rel="tag">{{ tag }}</a></li>
-    				{% endfor %}
-            <li class="sidebar-list-item"><a href="/livelesson-recordings/" class="post-tag" rel="tag">LiveLesson Recordings</a></li>
-            <small class="white"><em>Biology LiveLessons are on Mondays at 11:00 AM and Wednesdays at 1:00 PM!</em></small>
-    			</ul>
-    		</div>
-            <div class="sidebar">
-                <h2 class="white" >Need help?</h2>
-                <p class="white"><a class="secondary underline-on-hover" href="/contact">Book a meeting</a> with one of your Biology teachers.</p>
-            </div>
-		</div>
-		{% endif %}
-		
-		<div id="search_modal" class="modal">
-
-			<!-- Modal content -->
-			<div class="modal-content">
-				<span class="close">&times;</span>
-				<h1>Search</h1>
-				<input class="search_input" type="text" autofocus placeholder="Start typing to search">
-				<p class="results_text"></p>
-				<ul class="results">
-				</ul>
-			</div>
-
-		</div>
-
-	</body>
-
+<html {% if section %} data-current="{{ section }}" {% endif %} lang="en">
+  {% include "components/head.njk" %}
+  <body>
+    <header>
+      <div class="title-div">
+        <h1 class="site-title">
+          <a href="/">{{ metadata.title }}</a>
+        </h1>
+        <p class="site-subtitle">{{ metadata.subtitle }}</p>
+      </div>
+      {% include "components/nav.njk" %}
+    </header>
+    <main>
+      {{ layoutContent | safe }}
+    </main>
+    {% if page.url != "/tags/" %}
+      <div>
+        <div class="sidebar">
+          <h2 class="sidebar-heading">All Tags</h2>
+          <ul
+            class="sidebar-list">
+            {# <li class="sidebar-list-item"><a href="/firstsemester/" class="post-tag" rel="tag">First Semester</a></li> uncomment for second semester #}
+            {% for tag in collections.tagList | sort %}
+              {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+              <li class="sidebar-list-item">
+                <a href="{{ tagUrl | url }}" class="post-tag" rel="tag">{{ tag }}</a>
+              </li>
+            {% endfor %}
+            <li class="sidebar-list-item">
+              <a href="/livelesson-recordings/" class="post-tag" rel="tag">LiveLesson Recordings</a>
+            </li>
+            <small class="white">
+              <em>Biology LiveLessons are on Mondays at 11:00 AM and Wednesdays at 1:00 PM!</em>
+            </small>
+          </ul>
+        </div>
+        <div class="sidebar">
+          <h2 class="white">Need help?</h2>
+          <p class="white">
+            <a class="secondary underline-on-hover" href="/contact">Book a meeting</a>
+            with one of your Biology teachers.</p>
+        </div>
+      </div>
+    {% endif %}
+    <div
+      id="search_modal" class="modal">
+      <!-- Modal content -->
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <h1>Search</h1>
+        <input class="search_input" type="text" autofocus placeholder="Start typing to search">
+        <p class="results_text"></p>
+        <ul class="results"></ul>
+      </div>
+    </div>
+  </body>
 </html>

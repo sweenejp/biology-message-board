@@ -25,6 +25,7 @@ module.exports = function (eleventyConfig) {
             case 'Hide-on-home':
             case 'Hide-everywhere':
             case 'firstsemester':
+            case 'secondsemester':
               return false;
           }
 

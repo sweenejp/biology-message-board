@@ -5,11 +5,16 @@ eleventyNavigation:
   order: 3
 title: "Tags"
 ---
+
 <ul class="tags-list">
   {% for tag in collections.tagList | sort %}
     {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-    <li class="tags-list-item"><a href="{{ tagUrl | url }}" class="tags-list-link" rel="tag">{{ tag }}</a></li>
+    <li class="tags-list-item">
+      <a href="{{ tagUrl | url }}" class="tags-list-link" rel="tag">{{ tag }}</a>
+    </li>
   {% endfor %}
-    <li class="tags-list-item"><a href="/livelesson-recordings/" class="tags-list-link" rel="tag">LiveLesson Recordings</a></li>
-    <li class="tags-list-item"><a href="/firstsemester/" class="tags-list-link" rel="tag">First Semester</a></li>
+  <li class="tags-list-item">
+    <a href="/livelesson-recordings/" class="tags-list-link" rel="tag">LiveLesson Recordings</a>
+  </li>
+  {# <li class="tags-list-item"><a href="/firstsemester/" class="tags-list-link" rel="tag">First Semester</a></li> uncomment for second semester #}
 </ul>
