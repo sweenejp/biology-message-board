@@ -3,6 +3,7 @@ title: Unit 1 Guided Notes
 date: 2022-08-25T15:58:59.547Z
 tags:
   - Unit 1
+  - Guides
 ---
 Unit 1 is an introduction to first semester Biology. The Unit 1 Guided Notes are brief, but feel free to add more notes if you wish.
 
