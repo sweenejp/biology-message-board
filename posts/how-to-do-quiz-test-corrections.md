@@ -11,4 +11,4 @@ You can complete Quick Check corrections by using [this template.](https://docs.
 
 You can complete Test corrections by visiting [the test correction page.](/posts/test-corrections-form/)
 
-You can see which questions you missed on a Quick Check by checking your [feedback](/posts/how-to-see-feedback/). If you'd like to see your feedback on an Alternative Test, please [send a WebMail to Mr. Sweeney.](https://www.connexus.com/webmail?hideHeader=true/#/composemessage?idWebuser=2786770)
+You can see which questions you missed on a Quick Check by checking your [feedback](/posts/how-to-see-feedback/). If you'd like to see your feedback on an Alternative Test, please Webmail your teacher!
