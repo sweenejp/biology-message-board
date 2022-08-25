@@ -4,25 +4,17 @@ date: 2022-08-25T16:09:56.827Z
 summary: |
   And enzymes, in particular.
 tags:
-  - Unit 1
+  - Unit 2
 ---
 This video will help you better understand lesson 6!
 
- 
-
 <div class="youtube-container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/qgVFkRn8f10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
- 
-
 Key terms to remember:
-
- 
 
 \* \*\*Substrate\**
 
 \* \*\*Enzyme\**
-
- 
 
 What type of macromolecule is an enzyme? Why are enzymes special?
 
