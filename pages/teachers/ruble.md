@@ -5,7 +5,7 @@ livelessonURL: https://www.connexus.com/external/livelesson/?url-path=lruble&dom
 permalink: /ruble/index.html
 date: 2021-01-28T18:44:38.543Z
 teacherName: Ms. Ruble
-featuredImage: /static/img/245337460_10158579391787099_305484849549309688_n.jpg
+featuredImage: /static/img/unnamed-1.png
 youcanbookmeURL: https://calendar.app.google/s2bi8GQGVTzWrkNw9
 phoneNumber: (507) 291-8739
 ---
