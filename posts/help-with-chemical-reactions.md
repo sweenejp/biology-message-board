@@ -6,6 +6,8 @@ summary: |
 tags:
   - Unit 2
 ---
+
+
 ![]()
 
 This video will help you better understand lesson 6!
